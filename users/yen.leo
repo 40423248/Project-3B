@@ -77,7 +77,7 @@
 <v t="leo.20170304161410.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170315090154.1" a="E"><vh>Week3</vh>
+<v t="leo.20170315090154.1"><vh>Week3</vh>
 <v t="leo.20170315090154.2" a="E"><vh>Week3 content</vh>
 <v t="leo.20170315090154.3"><vh>Week3-1</vh></v>
 </v>
@@ -108,7 +108,7 @@
 </v>
 </v>
 </v>
-<v t="yen.20170108171733.71"><vh>@path content</vh>
+<v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
 <v t="yen.20170221100209.1"><vh>@edit 2017Week1.md</vh></v>
 <v t="leo.20170315090339.1"><vh>@edit 2017Week2.md</vh></v>
 <v t="leo.20170315091533.1"><vh>@edit 2017Week3.md</vh></v>
