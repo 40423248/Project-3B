@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>Articles by 40423248 - 2017Spring 協同產品設計實習 (虎尾科大MDE)</title>
+    <title>six - 2017Spring 協同產品設計實習 (虎尾科大MDE)</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -11,7 +11,8 @@
 
 
 
-        <meta name="author" content="KMOL" />
+    <meta name="author" content="KMOL" />
+    <meta name="keywords" content="six" />
 
     <!-- Open Graph tags -->
         <meta property="og:site_name" content="2017Spring 協同產品設計實習 (虎尾科大MDE)" />
@@ -122,23 +123,23 @@
         <div class="col-sm-9">
 
             <article>
-                <h2><a href="../2017springCD-Week3.html">2017CD第三週</a></h2>
-                <div class="summary"><p>3</p>
-                    <a class="btn btn-default btn-xs" href="../2017springCD-Week3.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="../2017springCD-Week2.html">Pyslvs-user-manual-2</a></h2>
-                <div class="summary"><p>2</p>
-                    <a class="btn btn-default btn-xs" href="../2017springCD-Week2.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="../2017springCD-Week1.html">Pyslvs-user-manual-1</a></h2>
-                <div class="summary"><p>1</p>
-                    <a class="btn btn-default btn-xs" href="../2017springCD-Week1.html">more ...</a>
+                <h2><a href="../20180120-matplotlib-installation-problem.html">安裝matplotlib及其他模組遇到之問題</a></h2>
+                <div class="summary"><p>Unofficial Windows Binaries for Python Extension Packages : 
+https://www.lfd.uci.edu/~gohlke/pythonlibs/</p>
+<p>我在1/20號前利用python簡單編譯一個計算齒輪模數及速比的程式。原定是將使用matplotlib來對齒輪進行繪圖，而在安裝時遇到許多問題。以下為遇到問題之解決方法：</p>
+<ol>
+<li>安裝matplotlib : 用git clone進行下載。在python shell上輸入import matplotlib。
+                             遇到問題 : 缺少dateutil。</li>
+</ol>
+<iframe src="./../pictures/problem1-require-dateutil.jpg" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<ol>
+<li>缺少dateutil : 輸入easy_install python-dateutil進行安裝，安裝好後將資料夾放至C:\Python34\Lib\site-packages。</li>
+</ol>
+<p>參考資料 : https://jingyan.baidu.com/article/aa6a2c14d5aa7f0d4c19c4e2.html</p>
+<ol>
+<li>缺少six : 到'https://pypi.python.org/pypi/six ...</li></ol>
+                    <a class="btn btn-default btn-xs" href="../20180120-matplotlib-installation-problem.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -153,18 +154,8 @@
             <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
                 <ul class="list-group" id="recentposts">
                     <li class="list-group-item">
-                        <a href="../2017springCD-Week3.html">
-                            2017CD第三週
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="../2017springCD-Week2.html">
-                            Pyslvs-user-manual-2
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="../2017springCD-Week1.html">
-                            Pyslvs-user-manual-1
+                        <a href="../20180120-matplotlib-installation-problem.html">
+                            安裝matplotlib及其他模組遇到之問題
                         </a>
                     </li>
                 </ul>
@@ -218,7 +209,7 @@
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2017 KMOL
+         <div class="col-xs-10">&copy; 2018 KMOL
             &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
