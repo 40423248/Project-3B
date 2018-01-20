@@ -112,7 +112,7 @@
 <v t="yen.20170221100209.1"><vh>@edit 安裝matplotlib及其他模組遇到之問題.md</vh></v>
 <v t="leo.20170315090339.1"><vh>@edit 2017Week2.md</vh></v>
 <v t="leo.20170315091533.1"><vh>@edit 2017Week3.md</vh></v>
-<v t="yen.20170108171733.81"><vh>@path pages</vh>
+<v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
