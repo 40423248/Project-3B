@@ -1,6 +1,6 @@
 Title: 安裝matplotlib及其他模組遇到之問題
 Date: 2018-01-20 11:00
-Category: Course
+Category: 40423254
 Tags: matplotlib, pyparsing, six, dateutil
 Slug: 20180120-matplotlib-installation-problem
 Author: 40423254
