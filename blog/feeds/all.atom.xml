@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-01-20T11:00:00+08:00</updated><entry><title>安裝matplotlib及其他模組遇到之問題</title><link href="./20180120-matplotlib-installation-problem.html" rel="alternate"></link><updated>2018-01-20T11:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2018-01-20:./20180120-matplotlib-installation-problem.html</id><summary type="html">&lt;p&gt;Unofficial Windows Binaries for Python Extension Packages : 
-https://www.lfd.uci.edu/~gohlke/pythonlibs/&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-01-20T11:00:00+08:00</updated><entry><title>安裝matplotlib及其他模組遇到之問題</title><link href="./20180120-matplotlib-installation-problem.html" rel="alternate"></link><updated>2018-01-20T11:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2018-01-20:./20180120-matplotlib-installation-problem.html</id><summary type="html">&lt;p&gt;Unofficial Windows Binaries for Python Extension Packages : 
+&lt;a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/" target="_blank" title="https://www.lfd.uci.edu/~gohlke/pythonlibs/"&gt;https://www.lfd.uci.edu/~gohlke/pythonlibs/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;我在1/20號前利用python簡單編譯一個計算齒輪模數及速比的程式。原定是將使用matplotlib來對齒輪進行繪圖，而在安裝時遇到許多問題。以下為遇到問題之解決方法：&lt;/p&gt;
+
+
 &lt;ol&gt;
 &lt;li&gt;安裝matplotlib : 用git clone進行下載。在python shell上輸入import matplotlib。
                              遇到問題 : 缺少dateutil。&lt;/li&gt;
@@ -11,7 +13,8 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;缺少dateutil : 輸入easy_install python-dateutil進行安裝，安裝好後將資料夾放至C:\Python34\Lib\site-packages。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;參考資料 : https://jingyan.baidu.com/article/aa6a2c14d5aa7f0d4c19c4e2.html&lt;/p&gt;
+&lt;p&gt;參考資料 : 
+&lt;a href="https://jingyan.baidu.com/article/aa6a2c14d5aa7f0d4c19c4e2.html" target="_blank" title="https://jingyan.baidu.com/article/aa6a2c14d5aa7f0d4c19c4e2.html"&gt;https://jingyan.baidu.com/article/aa6a2c14d5aa7f0d4c19c4e2.html&lt;/a&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;缺少six : 到'https://pypi.python.org/pypi/six'下載six-1.11.0-py2.py3-none-any.whl，接著至cmd輸入pip install six-1.11.0-py2.py3-none-any.whl (md5)。
 將安裝好的資料夾six-1.10.0文件夾改名為six，並複製到C:\Python34\Lib\site-packages路徑下&lt;/li&gt;
@@ -21,7 +24,8 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;缺少__version__ : 去C:\Python34\Lib\site-packages\six路徑下，把six.py文件複製到C:\Python34\Lib\site-packages路徑下。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;參考資料 : https://read01.com/zh-tw/N6z0RK.html#.WmMVwKjXbIX&lt;/p&gt;
+&lt;p&gt;參考資料 : 
+&lt;a href="https://read01.com/zh-tw/N6z0RK.html#.WmMVwKjXbIX" target="_blank" title="https://read01.com/zh-tw/N6z0RK.html#.WmMVwKjXbIX"&gt;https://read01.com/zh-tw/N6z0RK.html#.WmMVwKjXbIX&lt;/a&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;缺少pyparsing : 到'https://pypi.python.org/pypi/pyparsing/2.2.0'下載pyparsing-2.2.0-py2.py3-none-any.whl，在cmd上輸入pip install pyparsing-2.2.0-py2.py3-none-any.whl，並將安裝好後的資料夾移動至C:\Python34\Lib\site-packages。&lt;/li&gt;
 &lt;/ol&gt;
