@@ -41,3 +41,12 @@ Unofficial Windows Binaries for Python Extension Packages :
 <iframe src="./../pictures/problem4-attributeerror-pyparsing.jpg" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 推測 : 經過查詢資料，可能是python3.6不兼容任何版本的pyparsing。
+
+解決方法 : 將matplotlib更新至1.5.1版本。原本的matplotlib是以前上課留下的資料，是從Y:\Anaconda3/Lib/site-packages路徑裡抓出來的，可能因為版本過舊導致AttributeError。將matplotlib版本更新至1.5.1版似乎就正常運作。
+
+參考資料 : 
+<a href="https://stackoverflow.com/questions/41363993/python-3-6-pip-install-matplotlib-and-other-libraries-failed-on-windows-10" target="_blank" title="https://stackoverflow.com/questions/41363993/python-3-6-pip-install-matplotlib-and-other-libraries-failed-on-windows-10">https://stackoverflow.com/questions/41363993/python-3-6-pip-install-matplotlib-and-other-libraries-failed-on-windows-10</a>
+
+其中#2提到版本不兼容問題，嘗試利用pip install matplotlib==1.5.1來解決問題。
+
+<iframe src="./../pictures/problem5-update-matplotlib-to-solve.jpg" width="800" height="80" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
