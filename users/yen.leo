@@ -18,7 +18,7 @@
 <v t="yen.20170108171733.2"><vh>@button pelican-blog</vh></v>
 <v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
 <v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
-<v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
+<v t="yen.20170108171733.5"><vh>Pelican 設定</vh>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 </v>
@@ -109,11 +109,12 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
+<v t="leo.20180122194924.1"><vh>@edit Cam-Displacement-0122.md</vh></v>
 <v t="leo.20180120204133.1"><vh>@edit Cam-Function-0120.md</vh></v>
 <v t="yen.20170221100209.1"><vh>@edit 安裝matplotlib及其他模組遇到之問題.md</vh></v>
 <v t="leo.20170315090339.1"><vh>@edit 2017Week2.md</vh></v>
 <v t="leo.20170315091533.1"><vh>@edit 2017Week3.md</vh></v>
-<v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
+<v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
