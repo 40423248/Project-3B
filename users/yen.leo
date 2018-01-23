@@ -22,8 +22,8 @@
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 </v>
-<v t="yen.20170215103217.1"><vh>編輯 template</vh>
-<v t="yen.20170215103228.1"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
+<v t="yen.20170215103217.1" a="E"><vh>編輯 template</vh>
+<v t="yen.20170215103228.1" a="E"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
@@ -109,7 +109,8 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
-<v t="leo.20180122194924.1"><vh>@edit Cam-Displacement-0122.md</vh></v>
+<v t="leo.20180122194924.1"><vh>@edit solve-Mathjax-0123.md</vh></v>
+<v t="leo.20180123120526.1"><vh>@edit Cam-Displacement-0122.md</vh></v>
 <v t="leo.20180120204133.1"><vh>@edit Cam-Function-0120.md</vh></v>
 <v t="yen.20170221100209.1"><vh>@edit 安裝matplotlib及其他模組遇到之問題.md</vh></v>
 <v t="leo.20170315090339.1"><vh>@edit 2017Week2.md</vh></v>

@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/40423245.atom.xml" rel="self"></link><id>./</id><updated>2018-01-22T20:00:00+08:00</updated><entry><title>凸輪位移程式-01/22</title><link href="./Cam-Displacement-0122.html" rel="alternate"></link><published>2018-01-22T20:00:00+08:00</published><updated>2018-01-22T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2018-01-22:./Cam-Displacement-0122.html</id><summary type="html">&lt;h4&gt;將凸輪一般從動件位移方程式轉為Python&lt;/h4&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/40423245.atom.xml" rel="self"></link><id>./</id><updated>2018-01-23T20:00:00+08:00</updated><entry><title>解決無法加入數學方程式問題-01/23</title><link href="./solve-Mathjax-0123.html" rel="alternate"></link><published>2018-01-23T20:00:00+08:00</published><updated>2018-01-23T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2018-01-23:./solve-Mathjax-0123.html</id><summary type="html">&lt;h4&gt;利用 Mathjax ，就可以使用 LaTeX 語法，在網頁上編寫數學方程式.&lt;/h4&gt;
+
+
+&lt;p&gt;由於在網誌中無法利用 Mathjax 編寫數學方程式，在轉完網誌之後會發生下列情形&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/Solve Mathjax before.bmp" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;在經過尋找之後，發現是在 template 底下的 base.html 沒有轉檔使用的程式碼，
+在加入下列程式碼後，即可使用順利 Mathjax&lt;/p&gt;
+&lt;h3&gt;加入的程式碼&lt;/h3&gt;
+
+&lt;pre class="brush: python"&gt;
+&lt;!-- for LaTeX equations --&gt;
+&lt;script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+init_mathjax = function() {
+    if (window.MathJax) {
+        // MathJax loaded
+        MathJax.Hub.Config({
+            tex2jax: {
+                inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+            },
+            displayAlign: 'left', // Change this to 'center' to center equations.
+            "HTML-CSS": {
+                styles: {'.MathJax_Display': {"margin": 0}}
+            }
+        });
+        MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
+    }
+}
+init_mathjax();
+&lt;/script&gt;
+
+&lt;/pre&gt;
+
+&lt;p&gt;Ex: 一元二次方程式 (ax^2 + bx + c = 0) 有兩組解, 可以寫成:&lt;/p&gt;
+&lt;p&gt;$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$&lt;/p&gt;</summary><category term="Mathjax"></category></entry><entry><title>凸輪位移程式-01/22</title><link href="./Cam-Displacement-0122.html" rel="alternate"></link><published>2018-01-22T20:00:00+08:00</published><updated>2018-01-22T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2018-01-22:./Cam-Displacement-0122.html</id><summary type="html">&lt;h4&gt;將凸輪一般從動件位移方程式轉為Python&lt;/h4&gt;
 
 
 &lt;h3&gt;等加速位移方程式&lt;/h3&gt;
