@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/40423254.atom.xml" rel="self"></link><id>./</id><updated>2018-01-20T11:00:00+08:00</updated><entry><title>安裝matplotlib及其他模組遇到之問題</title><link href="./20180120-matplotlib-installation-problem.html" rel="alternate"></link><published>2018-01-20T11:00:00+08:00</published><updated>2018-01-20T11:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2018-01-20:./20180120-matplotlib-installation-problem.html</id><summary type="html">&lt;p&gt;Unofficial Windows Binaries for Python Extension Packages : 
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/40423254.atom.xml" rel="self"></link><id>./</id><updated>2018-01-24T21:00:00+08:00</updated><entry><title>pip, matplotlib及pyqt5安裝問題及環境</title><link href="./pip-matplotlib-pyqt5-issue.html" rel="alternate"></link><updated>2018-01-24T21:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2018-01-24:./pip-matplotlib-pyqt5-issue.html</id><summary type="html">&lt;p&gt;上禮拜我安裝matplotlib後，輸入import matplotlib.pyplot as plt，結果輸出錯誤。所以我暫時將環境移至可攜式的python3.4。&lt;/p&gt;
+
+
+&lt;p&gt;然而我在python3.4環境下安裝pyqt5，則會有抓不到sip模組的問題。所以我又移至python3.6下環境進行測試，結果成功。&lt;/p&gt;
+&lt;iframe src="./../pictures/pyqt5-install-successfully.jpg" width="300" height="50" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;我為了使matplotlib及pyqt5能在同意環境下兼容，我嘗試在python3.6環境下輸入pip install matplotlib，結果錯誤。&lt;/p&gt;
+&lt;iframe src="./../pictures/pip-is-not.jpg" width="300" height="80" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;我查證後發現原因是我沒有在python3.6環境下設定環境變數。設定完後即可正常運作。&lt;/p&gt;
+&lt;p&gt;參考網址 : &lt;a href="https://sites.google.com/a/crayflames.co.cc/crayflames/python/ptp/pythondehuanjingbianshu" target="_blank" title="https://sites.google.com/a/crayflames.co.cc/crayflames/python/ptp/pythondehuanjingbianshu"&gt;https://sites.google.com/a/crayflames.co.cc/crayflames/python/ptp/pythondehuanjingbianshu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;而上週安裝matplotlib持續發生的各種錯誤，我想是因為我下pip指令的環境是python3.6而非3.4，接著將安裝好的資料夾手動移至python3.4環境，可能發生版本不相容的問題 。&lt;/p&gt;</summary><category term="pip"></category><category term="matplotlib"></category><category term="pyqt5"></category></entry><entry><title>安裝matplotlib及其他模組遇到之問題</title><link href="./20180120-matplotlib-installation-problem.html" rel="alternate"></link><updated>2018-01-20T11:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2018-01-20:./20180120-matplotlib-installation-problem.html</id><summary type="html">&lt;p&gt;Unofficial Windows Binaries for Python Extension Packages : 
 &lt;a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/" target="_blank" title="https://www.lfd.uci.edu/~gohlke/pythonlibs/"&gt;https://www.lfd.uci.edu/~gohlke/pythonlibs/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;我在1/20號前利用python簡單編譯一個計算齒輪模數及速比的程式。原定是將使用matplotlib來對齒輪進行繪圖，而在安裝時遇到許多問題。以下為遇到問題之解決方法：&lt;/p&gt;
 
