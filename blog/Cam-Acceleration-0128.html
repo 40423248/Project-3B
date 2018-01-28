@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>解決無法加入數學方程式問題-01/23 - Project-3B 四設計三乙專題網誌</title>
+    <title>凸輪加速度程式-01/28 - Project-3B 四設計三乙專題網誌</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -32,20 +32,20 @@ init_mathjax();
 </script>
 
 
-<link rel="canonical" href="./solve-Mathjax-0123.html">
+<link rel="canonical" href="./Cam-Acceleration-0128.html">
 
         <meta name="author" content="40423245" />
-        <meta name="keywords" content="Mathjax" />
-        <meta name="description" content="利用 Mathjax ，就可以使用 LaTeX 語法，在網頁上編寫數學方程式." />
+        <meta name="keywords" content="Cam" />
+        <meta name="description" content="將凸輪一般從動件加速度方程式轉為Python" />
 
         <meta property="og:site_name" content="Project-3B 四設計三乙專題網誌" />
         <meta property="og:type" content="article"/>
-        <meta property="og:title" content="解決無法加入數學方程式問題-01/23"/>
-        <meta property="og:url" content="./solve-Mathjax-0123.html"/>
-        <meta property="og:description" content="利用 Mathjax ，就可以使用 LaTeX 語法，在網頁上編寫數學方程式."/>
-        <meta property="article:published_time" content="2018-01-23" />
+        <meta property="og:title" content="凸輪加速度程式-01/28"/>
+        <meta property="og:url" content="./Cam-Acceleration-0128.html"/>
+        <meta property="og:description" content="將凸輪一般從動件加速度方程式轉為Python"/>
+        <meta property="article:published_time" content="2018-01-28" />
             <meta property="article:section" content="40423245" />
-            <meta property="article:tag" content="Mathjax" />
+            <meta property="article:tag" content="Cam" />
             <meta property="article:author" content="40423245" />
 
 
@@ -159,10 +159,10 @@ Project-3B 四設計三乙專題網誌            </a>
         <article>
             <header class="page-header">
                 <h1>
-                    <a href="./solve-Mathjax-0123.html"
+                    <a href="./Cam-Acceleration-0128.html"
                        rel="bookmark"
-                       title="Permalink to 解決無法加入數學方程式問題-01/23">
-                        解決無法加入數學方程式問題-01/23
+                       title="Permalink to 凸輪加速度程式-01/28">
+                        凸輪加速度程式-01/28
                     </a>
                 </h1>
             </header>
@@ -172,7 +172,7 @@ Project-3B 四設計三乙專題網誌            </a>
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2018-01-23T20:00:00+08:00"> Tue 23 January 2018</time>
+        <i class="fa fa-calendar"></i><time datetime="2018-01-28T20:00:00+08:00"> Sun 28 January 2018</time>
     </span>
             <span class="label label-default">By</span>
             <a href="./author/40423245.html"><i class="fa fa-user"></i> 40423245</a>
@@ -180,46 +180,91 @@ Project-3B 四設計三乙專題網誌            </a>
 
 
 <span class="label label-default">Tags</span>
-	<a href="./tag/mathjax.html">Mathjax</a>
+	<a href="./tag/cam.html">Cam</a>
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
-                <h4>利用 Mathjax ，就可以使用 LaTeX 語法，在網頁上編寫數學方程式.</h4>
+                <h4>將凸輪一般從動件加速度方程式轉為Python</h4>
 
 
-<p>由於在網誌中無法利用 Mathjax 編寫數學方程式，在轉完網誌之後會發生下列情形</p>
-<p><img src="./../data/Solve Mathjax before.bmp" width="480" /></p>
-<p>在經過尋找之後，發現是在 template 底下的 base.html 沒有轉檔使用的程式碼，
-在加入下列程式碼後，即可使用順利 Mathjax</p>
-<h3>加入的程式碼</h3>
+<h3>等加速之加速度方程式</h3>
+<p>$$For \frac{ \theta}{\beta}\leq0.5 , a = \frac{ 4h\omega^2}{\beta^2}$$
+$$For \frac{ \theta}{\beta}\geq0.5 , a = -\frac{ 4h\omega^2}{\beta^2}$$</p>
+<h3>等加速之加速度程式碼</h3>
 
 <pre class="brush: python">
-<!-- for LaTeX equations -->
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
-<script type="text/javascript">
-init_mathjax = function() {
-    if (window.MathJax) {
-        // MathJax loaded
-        MathJax.Hub.Config({
-            tex2jax: {
-                inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-                displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
-            },
-            displayAlign: 'left', // Change this to 'center' to center equations.
-            "HTML-CSS": {
-                styles: {'.MathJax_Display': {"margin": 0}}
-            }
-        });
-        MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
-    }
-}
-init_mathjax();
-</script>
+import math
 
+heigh = input("位移(h) : ")
+h = float(heigh)
+#####
+Theta = input("轉動角(Ѳ) : ") 
+c = float(Theta)
+#####
+Beta = input("總轉動角(β) : ")
+B = float(Beta)
+#####
+omega = input("角速度(w) : ")
+w = float(omega)
+#####
+
+if c/B<=0.5:
+    a = (4*h*(w**2))/(B**2)
+else:
+    a = -(4*h*(w**2))/(B**2)
+
+print(a)
 </pre>
 
-<p>Ex: 一元二次方程式 (ax^2 + bx + c = 0) 有兩組解, 可以寫成:</p>
-<p>$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</p>
+<h3>簡諧之加速度方程式</h3>
+<p>$$ a = \frac{ \pi^2 h\omega^2}{2\beta^2}cos\frac{ \pi \theta}{\beta}$$</p>
+<h3>簡諧之加速度程式碼</h3>
+
+<pre class="brush: python">
+import math
+
+heigh = input("位移(h) : ")
+h = float(heigh)
+#####
+Theta = input("轉動角(Ѳ) : ") 
+c = float(Theta)
+#####
+Beta = input("總轉動角(β) : ")
+B = float(Beta)
+#####
+omega = input("角速度(w) : ")
+w = float(omega)
+#####
+
+a = ((math.pi**2)*h*(w**2))/(2*(B**2))*math.cos((math.pi*c)/B)
+
+print(a)
+</pre>
+
+<h3>擺線之加速度方程式</h3>
+<p>$$ a = \frac{2\pi h\omega^2}{\beta^2}sin\frac{ 2 \pi \theta}{\beta}$$</p>
+<h3>擺線之加速度程式碼</h3>
+
+<pre class="brush: python">
+import math
+
+heigh = input("位移(h) : ")
+h = float(heigh)
+#####
+Theta = input("轉動角(Ѳ) : ") 
+c = float(Theta)
+#####
+Beta = input("總轉動角(β) : ")
+B = float(Beta)
+#####
+omega = input("角速度(w) : ")
+w = float(omega)
+#####
+
+a = (2*math.pi*h*(w**2))/(B**2)*math.sin((2*math.pi*c)/B)
+
+print(a)
+</pre>
             </div>
             <!-- /.entry-content -->
         </article>
