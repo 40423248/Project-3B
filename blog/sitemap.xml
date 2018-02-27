@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2018-01-28T20:27:39-00:00</lastmod>
+<lastmod>2018-02-27T23:32:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2018-01-28T20:27:39-00:00</lastmod>
+<lastmod>2018-02-27T23:32:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2018-01-28T20:27:39-00:00</lastmod>
+<lastmod>2018-02-27T23:32:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2018-01-28T20:27:39-00:00</lastmod>
+<lastmod>2018-02-27T23:32:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2018-01-22T19:45:27+08:00</lastmod>
+<lastmod>2018-02-27T23:13:35+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2018 Intro.html</loc>
+<lastmod>2018-02-27T11:20:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -116,6 +123,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./category/40423248.html</loc>
+<lastmod>2018-02-27T11:20:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./category/40423254.html</loc>
 <lastmod>2018-01-24T21:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -130,42 +144,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/w1.html</loc>
-<lastmod>2017-02-22T11:00:00+08:06</lastmod>
+<loc>./tag/intro.html</loc>
+<lastmod>2018-02-27T11:20:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/six.html</loc>
-<lastmod>2018-01-20T11:00:00+08:06</lastmod>
+<loc>./tag/cam.html</loc>
+<lastmod>2018-01-28T20:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/w2.html</loc>
-<lastmod>2017-02-23T11:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/pyparsing.html</loc>
-<lastmod>2018-01-20T11:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/w3.html</loc>
-<lastmod>2017-02-24T11:00:00+08:06</lastmod>
+<loc>./tag/pip.html</loc>
+<lastmod>2018-01-24T21:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/matplotlib.html</loc>
+<lastmod>2018-01-24T21:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/pyqt5.html</loc>
 <lastmod>2018-01-24T21:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -179,22 +186,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/brython.html</loc>
-<lastmod>2017-02-24T11:00:00+08:06</lastmod>
+<loc>./tag/pyparsing.html</loc>
+<lastmod>2018-01-20T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/pip.html</loc>
-<lastmod>2018-01-24T21:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/cam.html</loc>
-<lastmod>2018-01-28T20:00:00+08:06</lastmod>
+<loc>./tag/six.html</loc>
+<lastmod>2018-01-20T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -207,8 +207,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/pyqt5.html</loc>
-<lastmod>2018-01-24T21:00:00+08:06</lastmod>
+<loc>./tag/brython.html</loc>
+<lastmod>2017-02-24T11:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w3.html</loc>
+<lastmod>2017-02-24T11:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w2.html</loc>
+<lastmod>2017-02-23T11:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w1.html</loc>
+<lastmod>2017-02-22T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -222,7 +243,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/40423248.html</loc>
-<lastmod>2017-02-24T11:00:00+08:06</lastmod>
+<lastmod>2018-02-27T11:20:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

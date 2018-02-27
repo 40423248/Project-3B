@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-01-28T20:00:00+08:00</updated><entry><title>凸輪加速度程式-01/28</title><link href="./Cam-Acceleration-0128.html" rel="alternate"></link><published>2018-01-28T20:00:00+08:00</published><updated>2018-01-28T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2018-01-28:./Cam-Acceleration-0128.html</id><summary type="html">&lt;h4&gt;將凸輪一般從動件加速度方程式轉為Python&lt;/h4&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-02-27T11:20:00+08:00</updated><entry><title>計畫簡介</title><link href="./2018%20Intro.html" rel="alternate"></link><published>2018-02-27T11:20:00+08:00</published><updated>2018-02-27T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-02-27:./2018 Intro.html</id><summary type="html">&lt;h3&gt;在此,大略的說一下這學期想做的事,使用python及其他的程式套件來編出一個有程式功能的網頁,主要以先前的電動絞車做為參考資料,想做出可以即時互動的裝配模擬,如輸入部分的機件尺寸,就會在頁面中顯示相對的2D圖像,可以互相搭配結合,做模擬運動,或是可以叫出範本做模擬,之後,可能在導入其他的機組件做模擬.&lt;/h3&gt;</summary><content type="html">&lt;h3&gt;在此,大略的說一下這學期想做的事,使用python及其他的程式套件來編出一個有程式功能的網頁,主要以先前的電動絞車做為參考資料,想做出可以即時互動的裝配模擬,如輸入部分的機件尺寸,就會在頁面中顯示相對的2D圖像,可以互相搭配結合,做模擬運動,或是可以叫出範本做模擬,之後,可能在導入其他的機組件做模擬.&lt;/h3&gt;</content><category term="intro"></category></entry><entry><title>凸輪加速度程式-01/28</title><link href="./Cam-Acceleration-0128.html" rel="alternate"></link><published>2018-01-28T20:00:00+08:00</published><updated>2018-01-28T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:None,2018-01-28:./Cam-Acceleration-0128.html</id><summary type="html">&lt;h4&gt;將凸輪一般從動件加速度方程式轉為Python&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;將凸輪一般從動件加速度方程式轉為Python&lt;/h4&gt;
 
 
 &lt;h3&gt;等加速之加速度方程式&lt;/h3&gt;
@@ -79,7 +80,8 @@ w = float(omega)
 a = (2*math.pi*h*(w**2))/(B**2)*math.sin((2*math.pi*c)/B)
 
 print(a)
-&lt;/pre&gt;</summary><category term="Cam"></category></entry><entry><title>凸輪速度程式-01/25</title><link href="./Cam-velocity-0125.html" rel="alternate"></link><published>2018-01-25T20:00:00+08:00</published><updated>2018-01-25T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2018-01-25:./Cam-velocity-0125.html</id><summary type="html">&lt;h4&gt;將凸輪一般從動件速度方程式轉為Python&lt;/h4&gt;
+&lt;/pre&gt;</content><category term="Cam"></category></entry><entry><title>凸輪速度程式-01/25</title><link href="./Cam-velocity-0125.html" rel="alternate"></link><published>2018-01-25T20:00:00+08:00</published><updated>2018-01-25T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:None,2018-01-25:./Cam-velocity-0125.html</id><summary type="html">&lt;h4&gt;將凸輪一般從動件速度方程式轉為Python&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;將凸輪一般從動件速度方程式轉為Python&lt;/h4&gt;
 
 
 &lt;h3&gt;等加速之速度方程式&lt;/h3&gt;
@@ -161,7 +163,8 @@ v = ((h*w)/B)*(1-math.cos((2*math.pi*c)/B))
 print(v)
 &lt;/pre&gt;
 
-&lt;p&gt;參考資料：&lt;a href="http://blog.csdn.net/ethmery/article/details/50670297" target="_blank" title="http://blog.csdn.net/ethmery/article/details/50670297"&gt;http://blog.csdn.net/ethmery/article/details/50670297&lt;/a&gt;&lt;/p&gt;</summary><category term="Cam"></category></entry><entry><title>pip, matplotlib及pyqt5安裝問題及環境</title><link href="./pip-matplotlib-pyqt5-issue.html" rel="alternate"></link><published>2018-01-24T21:00:00+08:00</published><updated>2018-01-24T21:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2018-01-24:./pip-matplotlib-pyqt5-issue.html</id><summary type="html">&lt;p&gt;上禮拜我安裝matplotlib後，輸入import matplotlib.pyplot as plt，結果輸出錯誤。所以我暫時將環境移至可攜式的python3.4。&lt;/p&gt;
+&lt;p&gt;參考資料：&lt;a href="http://blog.csdn.net/ethmery/article/details/50670297" target="_blank" title="http://blog.csdn.net/ethmery/article/details/50670297"&gt;http://blog.csdn.net/ethmery/article/details/50670297&lt;/a&gt;&lt;/p&gt;</content><category term="Cam"></category></entry><entry><title>pip, matplotlib及pyqt5安裝問題及環境</title><link href="./pip-matplotlib-pyqt5-issue.html" rel="alternate"></link><published>2018-01-24T21:00:00+08:00</published><updated>2018-01-24T21:00:00+08:00</updated><author><name>40423254</name></author><id>tag:None,2018-01-24:./pip-matplotlib-pyqt5-issue.html</id><summary type="html">&lt;p&gt;上禮拜我安裝matplotlib後，輸入import matplotlib.pyplot as plt，結果輸出錯誤。所以我暫時將環境移至可攜式的python3.4。&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;上禮拜我安裝matplotlib後，輸入import matplotlib.pyplot as plt，結果輸出錯誤。所以我暫時將環境移至可攜式的python3.4。&lt;/p&gt;
 
 
 &lt;p&gt;然而我在python3.4環境下安裝pyqt5，則會有抓不到sip模組的問題。所以我又移至python3.6下環境進行測試，結果成功。&lt;/p&gt;
@@ -172,7 +175,8 @@ print(v)
 
 &lt;p&gt;我查證後發現原因是我沒有在python3.6環境下設定環境變數。設定完後即可正常運作。&lt;/p&gt;
 &lt;p&gt;參考網址 : &lt;a href="https://sites.google.com/a/crayflames.co.cc/crayflames/python/ptp/pythondehuanjingbianshu" target="_blank" title="https://sites.google.com/a/crayflames.co.cc/crayflames/python/ptp/pythondehuanjingbianshu"&gt;https://sites.google.com/a/crayflames.co.cc/crayflames/python/ptp/pythondehuanjingbianshu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;而上週安裝matplotlib持續發生的各種錯誤，我想是因為我下pip指令的環境是python3.6而非3.4，接著將安裝好的資料夾手動移至python3.4環境，可能發生版本不相容的問題 。&lt;/p&gt;</summary><category term="pip"></category><category term="matplotlib"></category><category term="pyqt5"></category></entry><entry><title>解決無法加入數學方程式問題-01/23</title><link href="./solve-Mathjax-0123.html" rel="alternate"></link><published>2018-01-23T20:00:00+08:00</published><updated>2018-01-23T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2018-01-23:./solve-Mathjax-0123.html</id><summary type="html">&lt;h4&gt;利用 Mathjax ，就可以使用 LaTeX 語法，在網頁上編寫數學方程式.&lt;/h4&gt;
+&lt;p&gt;而上週安裝matplotlib持續發生的各種錯誤，我想是因為我下pip指令的環境是python3.6而非3.4，接著將安裝好的資料夾手動移至python3.4環境，可能發生版本不相容的問題 。&lt;/p&gt;</content><category term="pip"></category><category term="matplotlib"></category><category term="pyqt5"></category></entry><entry><title>解決無法加入數學方程式問題-01/23</title><link href="./solve-Mathjax-0123.html" rel="alternate"></link><published>2018-01-23T20:00:00+08:00</published><updated>2018-01-23T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:None,2018-01-23:./solve-Mathjax-0123.html</id><summary type="html">&lt;h4&gt;利用 Mathjax ，就可以使用 LaTeX 語法，在網頁上編寫數學方程式.&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;利用 Mathjax ，就可以使用 LaTeX 語法，在網頁上編寫數學方程式.&lt;/h4&gt;
 
 
 &lt;p&gt;由於在網誌中無法利用 Mathjax 編寫數學方程式，在轉完網誌之後會發生下列情形&lt;/p&gt;
@@ -207,7 +211,8 @@ init_mathjax();
 &lt;/pre&gt;
 
 &lt;p&gt;Ex: 一元二次方程式 (ax^2 + bx + c = 0) 有兩組解, 可以寫成:&lt;/p&gt;
-&lt;p&gt;$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$&lt;/p&gt;</summary><category term="Mathjax"></category></entry><entry><title>凸輪位移程式-01/22</title><link href="./Cam-Displacement-0122.html" rel="alternate"></link><published>2018-01-22T20:00:00+08:00</published><updated>2018-01-22T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2018-01-22:./Cam-Displacement-0122.html</id><summary type="html">&lt;h4&gt;將凸輪一般從動件位移方程式轉為Python&lt;/h4&gt;
+&lt;p&gt;$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$&lt;/p&gt;</content><category term="Mathjax"></category></entry><entry><title>凸輪位移程式-01/22</title><link href="./Cam-Displacement-0122.html" rel="alternate"></link><published>2018-01-22T20:00:00+08:00</published><updated>2018-01-22T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:None,2018-01-22:./Cam-Displacement-0122.html</id><summary type="html">&lt;h4&gt;將凸輪一般從動件位移方程式轉為Python&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;將凸輪一般從動件位移方程式轉為Python&lt;/h4&gt;
 
 
 &lt;h3&gt;等加速位移方程式&lt;/h3&gt;
@@ -287,7 +292,8 @@ s = h*((c/B)-(1/(2*math.pi))*math.sin((2*math.pi*c)/B))
 
 print(s)
 
-&lt;/pre&gt;</summary><category term="Cam"></category></entry><entry><title>凸輪方程式-01/20</title><link href="./Cam-Function-0120.html" rel="alternate"></link><published>2018-01-20T20:00:00+08:00</published><updated>2018-01-20T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2018-01-20:./Cam-Function-0120.html</id><summary type="html">&lt;h3&gt;凸輪一般從動件方程式&lt;/h3&gt;
+&lt;/pre&gt;</content><category term="Cam"></category></entry><entry><title>凸輪方程式-01/20</title><link href="./Cam-Function-0120.html" rel="alternate"></link><published>2018-01-20T20:00:00+08:00</published><updated>2018-01-20T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:None,2018-01-20:./Cam-Function-0120.html</id><summary type="html">&lt;h3&gt;凸輪一般從動件方程式&lt;/h3&gt;
+</summary><content type="html">&lt;h3&gt;凸輪一般從動件方程式&lt;/h3&gt;
 
 
 &lt;p&gt;凸輪可依據從動件的運動方式分為許多種類，這裡根據等加速、簡諧、擺線進行討論。&lt;/p&gt;
@@ -297,7 +303,10 @@ print(s)
 &lt;h3&gt;凸輪速度方程式&lt;/h3&gt;
 &lt;p&gt;&lt;img src="./../data/Cam Function/velocity.bmp" width="480" /&gt;&lt;/p&gt;
 &lt;h3&gt;凸輪加速度方程式&lt;/h3&gt;
-&lt;p&gt;&lt;img src="./../data/Cam Function/Acceleration.bmp" width="480" /&gt;&lt;/p&gt;</summary><category term="Cam"></category></entry><entry><title>安裝matplotlib及其他模組遇到之問題</title><link href="./20180120-matplotlib-installation-problem.html" rel="alternate"></link><published>2018-01-20T11:00:00+08:00</published><updated>2018-01-20T11:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2018-01-20:./20180120-matplotlib-installation-problem.html</id><summary type="html">&lt;p&gt;Unofficial Windows Binaries for Python Extension Packages : 
+&lt;p&gt;&lt;img src="./../data/Cam Function/Acceleration.bmp" width="480" /&gt;&lt;/p&gt;</content><category term="Cam"></category></entry><entry><title>安裝matplotlib及其他模組遇到之問題</title><link href="./20180120-matplotlib-installation-problem.html" rel="alternate"></link><published>2018-01-20T11:00:00+08:00</published><updated>2018-01-20T11:00:00+08:00</updated><author><name>40423254</name></author><id>tag:None,2018-01-20:./20180120-matplotlib-installation-problem.html</id><summary type="html">&lt;p&gt;Unofficial Windows Binaries for Python Extension Packages : 
+&lt;a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/" target="_blank" title="https://www.lfd.uci.edu/~gohlke/pythonlibs/"&gt;https://www.lfd.uci.edu/~gohlke/pythonlibs/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我在1/20號前利用python簡單編譯一個計算齒輪模數及速比的程式。原定是將使用matplotlib來對齒輪進行繪圖，而在安裝時遇到許多問題。以下為遇到問題之解決方法：&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Unofficial Windows Binaries for Python Extension Packages : 
 &lt;a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/" target="_blank" title="https://www.lfd.uci.edu/~gohlke/pythonlibs/"&gt;https://www.lfd.uci.edu/~gohlke/pythonlibs/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;我在1/20號前利用python簡單編譯一個計算齒輪模數及速比的程式。原定是將使用matplotlib來對齒輪進行繪圖，而在安裝時遇到許多問題。以下為遇到問題之解決方法：&lt;/p&gt;
 
@@ -339,4 +348,4 @@ print(s)
 &lt;p&gt;參考資料 : 
 &lt;a href="https://stackoverflow.com/questions/41363993/python-3-6-pip-install-matplotlib-and-other-libraries-failed-on-windows-10" target="_blank" title="https://stackoverflow.com/questions/41363993/python-3-6-pip-install-matplotlib-and-other-libraries-failed-on-windows-10"&gt;https://stackoverflow.com/questions/41363993/python-3-6-pip-install-matplotlib-and-other-libraries-failed-on-windows-10&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;其中#2提到版本不兼容問題，嘗試利用pip install matplotlib==1.5.1來解決問題。&lt;/p&gt;
-&lt;iframe src="./../pictures/problem5-update-matplotlib-to-solve.jpg" width="800" height="80" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="matplotlib"></category><category term="pyparsing"></category><category term="six"></category><category term="dateutil"></category></entry><entry><title>2017CD第三週</title><link href="./2017springCD-Week3.html" rel="alternate"></link><published>2017-02-24T11:00:00+08:00</published><updated>2017-02-24T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-24:./2017springCD-Week3.html</id><summary type="html">&lt;p&gt;3&lt;/p&gt;</summary><category term="brython"></category><category term="w3"></category></entry><entry><title>Pyslvs-user-manual-2</title><link href="./2017springCD-Week2.html" rel="alternate"></link><published>2017-02-23T11:00:00+08:00</published><updated>2017-02-23T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-23:./2017springCD-Week2.html</id><summary type="html">&lt;p&gt;2&lt;/p&gt;</summary><category term="brython"></category><category term="w2"></category></entry><entry><title>Pyslvs-user-manual-1</title><link href="./2017springCD-Week1.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week1.html</id><summary type="html">&lt;p&gt;1&lt;/p&gt;</summary><category term="brython"></category><category term="w1"></category></entry></feed>
+&lt;iframe src="./../pictures/problem5-update-matplotlib-to-solve.jpg" width="800" height="80" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</content><category term="matplotlib"></category><category term="pyparsing"></category><category term="six"></category><category term="dateutil"></category></entry><entry><title>2017CD第三週</title><link href="./2017springCD-Week3.html" rel="alternate"></link><published>2017-02-24T11:00:00+08:00</published><updated>2017-02-24T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2017-02-24:./2017springCD-Week3.html</id><summary type="html">&lt;p&gt;3&lt;/p&gt;</summary><content type="html">&lt;p&gt;3&lt;/p&gt;</content><category term="brython"></category><category term="w3"></category></entry><entry><title>Pyslvs-user-manual-2</title><link href="./2017springCD-Week2.html" rel="alternate"></link><published>2017-02-23T11:00:00+08:00</published><updated>2017-02-23T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2017-02-23:./2017springCD-Week2.html</id><summary type="html">&lt;p&gt;2&lt;/p&gt;</summary><content type="html">&lt;p&gt;2&lt;/p&gt;</content><category term="brython"></category><category term="w2"></category></entry><entry><title>Pyslvs-user-manual-1</title><link href="./2017springCD-Week1.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2017-02-22:./2017springCD-Week1.html</id><summary type="html">&lt;p&gt;1&lt;/p&gt;</summary><content type="html">&lt;p&gt;1&lt;/p&gt;</content><category term="brython"></category><category term="w1"></category></entry></feed>
