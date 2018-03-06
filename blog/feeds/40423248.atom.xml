@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌 - 40423248</title><link href="./" rel="alternate"></link><link href="./feeds/40423248.atom.xml" rel="self"></link><id>./</id><updated>2018-02-28T11:20:00+08:00</updated><entry><title>Python基本語法-1</title><link href="./2018%20Basic.html" rel="alternate"></link><published>2018-02-28T11:20:00+08:00</published><updated>2018-02-28T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-02-28:./2018 Basic.html</id><summary type="html">&lt;h3&gt;這部分大概記錄一些之前學過的基本語法,用jupyter來做練習,以後會再繼續增加所學到的語法&lt;/h3&gt;
-&lt;h3&gt;1.print() :&lt;/h3&gt;
+</summary><content type="html">&lt;h3&gt;這部分大概記錄一些之前學過的基本語法,用jupyter來做練習,以後會再繼續增加所學到的語法&lt;/h3&gt;
+
+
+&lt;h3&gt;1.列印print() :&lt;/h3&gt;
 &lt;h4&gt;指定印出括號中的內容,只有括號的話是印出數字,括號內再加入單引號('')可印出文字,這裡輸入hello world,如下圖所示:&lt;/h4&gt;
 &lt;p&gt;&lt;img src="./../data/pb/python-001.png" width="1000" /&gt;&lt;/p&gt;
-&lt;h3&gt;2.type():&lt;/h3&gt;
-&lt;h4&gt;可以做分類,如指定a=123,把a輸入到括號中,type(a),系統就會告訴你這是甚麼,a為int數字或是指定b='123',系統會告訴你b為字串,因為加了''這兩點,系統認定這是字串,又或是定義c=8.70,系統會告訴你c為浮點數,如下圖所示:&lt;/h4&gt;
-&lt;p&gt;&lt;img src="./../data/pb/python-002.png" width="1000" /&gt;&lt;/p&gt;
-&lt;h3&gt;3.簡單的運算:&lt;/h3&gt;
-&lt;h4&gt;先給幾個定義,如:a=5 , b=8&lt;/h4&gt;
-&lt;h4&gt;再輸入一些運算符號跟print,如:&lt;/h4&gt;
-&lt;h4&gt;print(a+b)   相加&lt;/h4&gt;
-&lt;h4&gt;print(a-b)   相減&lt;/h4&gt;
-&lt;h4&gt;print(a …&lt;/h4&gt;</summary><content type="html">&lt;h3&gt;這部分大概記錄一些之前學過的基本語法,用jupyter來做練習,以後會再繼續增加所學到的語法&lt;/h3&gt;
-&lt;h3&gt;1.print() :&lt;/h3&gt;
-&lt;h4&gt;指定印出括號中的內容,只有括號的話是印出數字,括號內再加入單引號('')可印出文字,這裡輸入hello world,如下圖所示:&lt;/h4&gt;
-&lt;p&gt;&lt;img src="./../data/pb/python-001.png" width="1000" /&gt;&lt;/p&gt;
-&lt;h3&gt;2.type():&lt;/h3&gt;
+&lt;h3&gt;2.分類type():&lt;/h3&gt;
 &lt;h4&gt;可以做分類,如指定a=123,把a輸入到括號中,type(a),系統就會告訴你這是甚麼,a為int數字或是指定b='123',系統會告訴你b為字串,因為加了''這兩點,系統認定這是字串,又或是定義c=8.70,系統會告訴你c為浮點數,如下圖所示:&lt;/h4&gt;
 &lt;p&gt;&lt;img src="./../data/pb/python-002.png" width="1000" /&gt;&lt;/p&gt;
 &lt;h3&gt;3.簡單的運算:&lt;/h3&gt;
@@ -37,4 +28,21 @@
 &lt;p&gt;&lt;img src="./../data/pb/python-004.png" width="1000" /&gt;&lt;/p&gt;
 &lt;h3&gt;5.數字與字串相加:&lt;/h3&gt;
 &lt;h4&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;img src="./../data/pb/python-005.png" width="1000" /&gt;&lt;/p&gt;</content><category term="Basic"></category></entry><entry><title>計畫簡介</title><link href="./2018%20Intro.html" rel="alternate"></link><published>2018-02-27T11:20:00+08:00</published><updated>2018-02-27T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-02-27:./2018 Intro.html</id><summary type="html">&lt;h3&gt;在此,大略的說一下這學期想做的事,使用python及其他的程式套件來編出一個有程式功能的網頁,主要以先前的電動絞車做為參考資料,想做出可以即時互動的裝配模擬,如輸入部分的機件尺寸,就會在頁面中顯示相對的2D圖像,可以互相搭配結合,做模擬運動,或是可以叫出範本做模擬,之後,可能在導入其他的機組件做模擬.&lt;/h3&gt;</summary><content type="html">&lt;h3&gt;在此,大略的說一下這學期想做的事,使用python及其他的程式套件來編出一個有程式功能的網頁,主要以先前的電動絞車做為參考資料,想做出可以即時互動的裝配模擬,如輸入部分的機件尺寸,就會在頁面中顯示相對的2D圖像,可以互相搭配結合,做模擬運動,或是可以叫出範本做模擬,之後,可能在導入其他的機組件做模擬.&lt;/h3&gt;</content><category term="intro"></category></entry></feed>
+&lt;p&gt;&lt;img src="./../data/pb/python-005.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/pb/python-005-2.png" width="1000" /&gt;&lt;/p&gt;
+&lt;h3&gt;6.輸入資料input():&lt;/h3&gt;
+&lt;h4&gt;隨便取一個代號為變數,如取a;&lt;/h4&gt;
+&lt;h4&gt;a =input()         ==&amp;gt;這裡在執行時會變成輸入列,可任意輸入字串或數字之類的東西&lt;/h4&gt;
+&lt;h4&gt;print('a=' ,a)      ==&amp;gt;這裡會印出所輸入的東西&lt;/h4&gt;
+&lt;h4&gt;或是輸入名稱, 如b= input('Your name: ')      ==&amp;gt;任意給一個名子&lt;/h4&gt;
+&lt;h4&gt;print('Your name:' , b)       ==&amp;gt;這裡會印出所輸入的名子   ,如下圖:&lt;/h4&gt;
+&lt;p&gt;&lt;img src="./../data/pb/python-006.png" width="1000" /&gt;&lt;/p&gt;
+&lt;h3&gt;也可以跟簡易運算搭配,如下圖:&lt;/h3&gt;
+&lt;p&gt;&lt;img src="./../data/pb/python-006-2.png" width="1000" /&gt;&lt;/p&gt;
+&lt;h3&gt;7.if判斷式:&lt;/h3&gt;
+&lt;h4&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img src="./../data/pb/python-007.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/pb/python-007-2.png" width="1000" /&gt;&lt;/p&gt;
+&lt;h3&gt;8.&lt;/h3&gt;
+&lt;h4&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img src="./../data/pb/python-008.png" width="1000" /&gt;&lt;/p&gt;</content><category term="Basic"></category></entry><entry><title>計畫簡介</title><link href="./2018%20Intro.html" rel="alternate"></link><published>2018-02-27T11:20:00+08:00</published><updated>2018-02-27T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-02-27:./2018 Intro.html</id><summary type="html">&lt;h3&gt;在此,大略的說一下這學期想做的事,使用python及其他的程式套件來編出一個有程式功能的網頁,主要以先前的電動絞車做為參考資料,想做出可以即時互動的裝配模擬,如輸入部分的機件尺寸,就會在頁面中顯示相對的2D圖像,可以互相搭配結合,做模擬運動,或是可以叫出範本做模擬,之後,可能在導入其他的機組件做模擬.&lt;/h3&gt;</summary><content type="html">&lt;h3&gt;在此,大略的說一下這學期想做的事,使用python及其他的程式套件來編出一個有程式功能的網頁,主要以先前的電動絞車做為參考資料,想做出可以即時互動的裝配模擬,如輸入部分的機件尺寸,就會在頁面中顯示相對的2D圖像,可以互相搭配結合,做模擬運動,或是可以叫出範本做模擬,之後,可能在導入其他的機組件做模擬.&lt;/h3&gt;</content><category term="intro"></category></entry></feed>
