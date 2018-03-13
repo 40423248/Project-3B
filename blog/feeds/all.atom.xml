@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-03-01T11:20:00+08:00</updated><entry><title>SQL安裝</title><link href="./2018%20SQL.html" rel="alternate"></link><published>2018-03-01T11:20:00+08:00</published><updated>2018-03-01T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-03-01:./2018 SQL.html</id><summary type="html">&lt;h3&gt;這裡是介紹安裝SQL的過程:&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-03-02T11:20:00+08:00</updated><entry><title>Postman使用</title><link href="./2018%20Postman.html" rel="alternate"></link><published>2018-03-02T11:20:00+08:00</published><updated>2018-03-02T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-03-02:./2018 Postman.html</id><summary type="html">&lt;h3&gt;這裡是介紹如何使用Postman&lt;/h3&gt;
+</summary><content type="html">&lt;h3&gt;這裡是介紹如何使用Postman&lt;/h3&gt;
+
+
+&lt;p&gt;&lt;img src="./../data/postman/get01.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/postman/get02.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/postman/get03.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/postman/get02.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/postman/post01.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/postman/post02.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/postman/post03.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/postman/post04.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/postman/post05.png" width="1000" /&gt;&lt;/p&gt;</content><category term="Postman"></category></entry><entry><title>SQL安裝</title><link href="./2018%20SQL.html" rel="alternate"></link><published>2018-03-01T11:20:00+08:00</published><updated>2018-03-01T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-03-01:./2018 SQL.html</id><summary type="html">&lt;h3&gt;這裡是介紹安裝SQL的過程:&lt;/h3&gt;
 </summary><content type="html">&lt;h3&gt;這裡是介紹安裝SQL的過程:&lt;/h3&gt;
 
 
