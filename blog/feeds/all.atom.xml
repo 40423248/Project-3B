@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-02-28T11:20:00+08:00</updated><entry><title>Python基本語法-1</title><link href="./2018%20Basic.html" rel="alternate"></link><published>2018-02-28T11:20:00+08:00</published><updated>2018-02-28T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-02-28:./2018 Basic.html</id><summary type="html">&lt;h3&gt;這部分大概記錄一些之前學過的基本語法,用jupyter來做練習,以後會再繼續增加所學到的語法&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-03-01T11:20:00+08:00</updated><entry><title>SQL安裝</title><link href="./2018%20SQL.html" rel="alternate"></link><published>2018-03-01T11:20:00+08:00</published><updated>2018-03-01T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-03-01:./2018 SQL.html</id><summary type="html">&lt;h3&gt;這裡是介紹安裝SQL的過程:&lt;/h3&gt;
+</summary><content type="html">&lt;h3&gt;這裡是介紹安裝SQL的過程:&lt;/h3&gt;
+
+
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-01.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-02.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-03.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-04.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-05.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-06.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-07.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-08.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-09.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-10.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-11.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-12.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-13.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-14.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-15.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-16.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-17.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-18.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-19.png" width="1000" /&gt;&lt;/p&gt;</content><category term="SQL"></category></entry><entry><title>Python基本語法-1</title><link href="./2018%20Basic.html" rel="alternate"></link><published>2018-02-28T11:20:00+08:00</published><updated>2018-02-28T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-02-28:./2018 Basic.html</id><summary type="html">&lt;h3&gt;這部分大概記錄一些之前學過的基本語法,用jupyter來做練習,以後會再繼續增加所學到的語法&lt;/h3&gt;
 </summary><content type="html">&lt;h3&gt;這部分大概記錄一些之前學過的基本語法,用jupyter來做練習,以後會再繼續增加所學到的語法&lt;/h3&gt;
 
 

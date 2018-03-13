@@ -118,7 +118,7 @@
 <v t="yen.20170221100209.1"><vh>@edit 安裝matplotlib及其他模組遇到之問題.md</vh></v>
 <v t="leo.20170315090339.1"><vh>@edit 2018 Intro.md</vh></v>
 <v t="leo.20180304195328.1"><vh>@edit Python基本語法-1.md</vh></v>
-<v t="leo.20170315091533.1"><vh>@edit 2017Week3.md</vh></v>
+<v t="leo.20180314010839.1"><vh>@edit SQL安裝.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
