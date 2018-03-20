@@ -120,6 +120,8 @@
 <v t="leo.20180304195328.1"><vh>@edit Python基本語法-1.md</vh></v>
 <v t="leo.20180314010839.1"><vh>@edit SQL安裝.md</vh></v>
 <v t="leo.20180314012007.1"><vh>@edit Postman使用.md</vh></v>
+<v t="leo.20180321012540.1"><vh>@edit SQL-建立資料庫-1.md</vh></v>
+<v t="leo.20180321012952.1"><vh>@edit SQL-建立資料庫-2.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>

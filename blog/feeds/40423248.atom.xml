@@ -1,17 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌 - 40423248</title><link href="./" rel="alternate"></link><link href="./feeds/40423248.atom.xml" rel="self"></link><id>./</id><updated>2018-03-02T11:20:00+08:00</updated><entry><title>Postman使用</title><link href="./2018%20Postman.html" rel="alternate"></link><published>2018-03-02T11:20:00+08:00</published><updated>2018-03-02T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-03-02:./2018 Postman.html</id><summary type="html">&lt;h3&gt;這裡是介紹如何使用Postman&lt;/h3&gt;
-</summary><content type="html">&lt;h3&gt;這裡是介紹如何使用Postman&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌 - 40423248</title><link href="./" rel="alternate"></link><link href="./feeds/40423248.atom.xml" rel="self"></link><id>./</id><updated>2018-03-03T11:20:00+08:00</updated><entry><title>SQL-建立資料庫-2</title><link href="./2018%20SQL-2.html" rel="alternate"></link><published>2018-03-03T11:20:00+08:00</published><updated>2018-03-03T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-03-03:./2018 SQL-2.html</id><summary type="html">&lt;h3&gt;這裡是介紹如何使用SQL來建立一個簡易的資料庫&lt;/h3&gt;
+</summary><content type="html">&lt;h3&gt;這裡是介紹如何使用SQL來建立一個簡易的資料庫&lt;/h3&gt;
+</content><category term="SQL-2"></category></entry><entry><title>Postman使用</title><link href="./2018%20Postman.html" rel="alternate"></link><published>2018-03-02T11:20:00+08:00</published><updated>2018-03-02T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-03-02:./2018 Postman.html</id><summary type="html">&lt;h3&gt;這裡是介紹如何使用Postman&lt;/h3&gt;
+&lt;p&gt;&amp;lt;</summary><content type="html">&lt;h3&gt;這裡是介紹如何使用Postman&lt;/h3&gt;
+&lt;p&gt;&amp;lt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/ex-database001.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/ex-database001-1.png" width="1000" /&gt;&lt;/p&gt;
+&lt;h3&gt;(1)建立:&lt;/h3&gt;
+&lt;h4&gt;第一張圖的CREATE DATABASE就是建立資料庫的指令, Test001是此資料庫的名稱,第二行的USE是轉移資料庫的指令&lt;/h4&gt;
+&lt;h3&gt;(2)備註:&lt;/h3&gt;
+&lt;h4&gt;/** Grocery List:&lt;/h4&gt;
+&lt;h4&gt;Bananas (4)&lt;/h4&gt;
+&lt;h4&gt;Peanut Butter (1)&lt;/h4&gt;
+&lt;h4&gt;Dark Chocolate Bar (2)&lt;/h4&gt;
+&lt;h4&gt;**/&lt;/h4&gt;
+&lt;p&gt;以上這段灰色的文字是備註這個資料庫所含有的內容,建立表格時需要放入這些東西&lt;/p&gt;
+&lt;h3&gt;(3)建立及分類:&lt;/h3&gt;
+&lt;h4&gt;CREATE TABLE groceries ( id INTEGER PRIMARY KEY,name TEXT, quantity INTEGER);&lt;/h4&gt;
+&lt;h4&gt;這段是建立表格的形式及分類欄位;&lt;/h4&gt;
+&lt;h4&gt;CREATE TABLE是建立表格&lt;/h4&gt;
+&lt;h3&gt;(4)插入資料:&lt;/h3&gt;
+&lt;h4&gt;&lt;/h4&gt;</content><category term="Postman"></category></entry><entry><title>SQL-建立資料庫-1</title><link href="./2018%20SQL-1.html" rel="alternate"></link><published>2018-03-02T11:20:00+08:00</published><updated>2018-03-02T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-03-02:./2018 SQL-1.html</id><summary type="html">&lt;h3&gt;這裡是介紹如何使用SQL來建立一個簡易的資料庫&lt;/h3&gt;
+</summary><content type="html">&lt;h3&gt;這裡是介紹如何使用SQL來建立一個簡易的資料庫&lt;/h3&gt;
 
 
-&lt;p&gt;&lt;img src="./../data/postman/get01.png" width="1000" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/postman/get02.png" width="1000" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/postman/get03.png" width="1000" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/postman/get02.png" width="1000" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/postman/post01.png" width="1000" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/postman/post02.png" width="1000" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/postman/post03.png" width="1000" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/postman/post04.png" width="1000" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/postman/post05.png" width="1000" /&gt;&lt;/p&gt;</content><category term="Postman"></category></entry><entry><title>SQL安裝</title><link href="./2018%20SQL.html" rel="alternate"></link><published>2018-03-01T11:20:00+08:00</published><updated>2018-03-01T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-03-01:./2018 SQL.html</id><summary type="html">&lt;h3&gt;這裡是介紹安裝SQL的過程:&lt;/h3&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/ex-database001.png" width="1000" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/ex-database001-1.png" width="1000" /&gt;&lt;/p&gt;
+&lt;h3&gt;(1)建立:&lt;/h3&gt;
+&lt;h4&gt;第一張圖的CREATE DATABASE就是建立資料庫的指令, Test001是此資料庫的名稱,第二行的USE是轉移資料庫的指令&lt;/h4&gt;
+&lt;h3&gt;(2)備註:&lt;/h3&gt;
+&lt;h4&gt;/** Grocery List:&lt;/h4&gt;
+&lt;h4&gt;Bananas (4)&lt;/h4&gt;
+&lt;h4&gt;Peanut Butter (1)&lt;/h4&gt;
+&lt;h4&gt;Dark Chocolate Bar (2)&lt;/h4&gt;
+&lt;h4&gt;**/&lt;/h4&gt;
+&lt;p&gt;以上這段灰色的文字是備註這個資料庫所含有的內容,建立表格時需要放入這些東西&lt;/p&gt;
+&lt;h3&gt;(3)建立及分類:&lt;/h3&gt;
+&lt;h4&gt;CREATE TABLE groceries ( id INTEGER PRIMARY KEY,name TEXT, quantity INTEGER);&lt;/h4&gt;
+&lt;h4&gt;這段是建立表格的形式及分類欄位;&lt;/h4&gt;
+&lt;h4&gt;CREATE TABLE是建立表格&lt;/h4&gt;
+&lt;h3&gt;(4)插入資料:&lt;/h3&gt;
+&lt;h4&gt;&lt;/h4&gt;</content><category term="SQL-1"></category></entry><entry><title>SQL安裝</title><link href="./2018%20SQL.html" rel="alternate"></link><published>2018-03-01T11:20:00+08:00</published><updated>2018-03-01T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-03-01:./2018 SQL.html</id><summary type="html">&lt;h3&gt;這裡是介紹安裝SQL的過程:&lt;/h3&gt;
 </summary><content type="html">&lt;h3&gt;這裡是介紹安裝SQL的過程:&lt;/h3&gt;
 
 

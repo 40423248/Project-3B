@@ -1,13 +1,13 @@
-Title: Postman使用
+Title: SQL-建立資料庫-1
 Date: 2018-03-02 11:20
 Category: 40423248
-Tags: Postman
-Slug: 2018 Postman
+Tags: SQL-1
+Slug: 2018 SQL-1
 Author: 40423248
 
-###這裡是介紹如何使用Postman
+###這裡是介紹如何使用SQL來建立一個簡易的資料庫
 
-<<!-- PELICAN_END_SUMMARY -->
+<!-- PELICAN_END_SUMMARY -->
 
 <img src="./../data/mysql/ex-database001.png" width="1000" />
 
@@ -32,3 +32,5 @@ Author: 40423248
 
 ###(4)插入資料:
 ####
+
+

@@ -2,8 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>Search - Project-3B 四設計三乙專題網誌
-</title>
+    <title>SQL-建立資料庫-1 - Project-3B 四設計三乙專題網誌</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -33,15 +32,21 @@ init_mathjax();
 </script>
 
 
+<link rel="canonical" href="./2018 SQL-1.html">
 
-        <meta name="author" content="KMOL" />
+        <meta name="author" content="40423248" />
+        <meta name="keywords" content="SQL-1" />
+        <meta name="description" content="這裡是介紹如何使用SQL來建立一個簡易的資料庫" />
 
-    <!-- Open Graph tags -->
         <meta property="og:site_name" content="Project-3B 四設計三乙專題網誌" />
-        <meta property="og:type" content="website"/>
-        <meta property="og:title" content="Project-3B 四設計三乙專題網誌"/>
-        <meta property="og:url" content="."/>
-        <meta property="og:description" content="Project-3B 四設計三乙專題網誌"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="SQL-建立資料庫-1"/>
+        <meta property="og:url" content="./2018 SQL-1.html"/>
+        <meta property="og:description" content="這裡是介紹如何使用SQL來建立一個簡易的資料庫"/>
+        <meta property="article:published_time" content="2018-03-02" />
+            <meta property="article:section" content="40423248" />
+            <meta property="article:tag" content="SQL-1" />
+            <meta property="article:author" content="40423248" />
 
 
     <!-- Bootstrap -->
@@ -122,7 +127,7 @@ Project-3B 四設計三乙專題網誌            </a>
                         <li >
                             <a href="./category/40423245.html">40423245</a>
                         </li>
-                        <li >
+                        <li class="active">
                             <a href="./category/40423248.html">40423248</a>
                         </li>
                         <li >
@@ -150,7 +155,60 @@ Project-3B 四設計三乙專題網誌            </a>
     <div class="row">
         <div class="col-sm-9">
 
-<div id="tipue_search_content"></div>
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="./2018 SQL-1.html"
+                       rel="bookmark"
+                       title="Permalink to SQL-建立資料庫-1">
+                        SQL-建立資料庫-1
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2018-03-02T11:20:00+08:00"> 週五 02 三月 2018</time>
+    </span>
+            <span class="label label-default">By</span>
+            <a href="./author/40423248.html"><i class="fa fa-user"></i> 40423248</a>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="./tag/sql-1.html">SQL-1</a>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <h3>這裡是介紹如何使用SQL來建立一個簡易的資料庫</h3>
+
+
+<p><img src="./../data/mysql/ex-database001.png" width="1000" /></p>
+<p><img src="./../data/mysql/ex-database001-1.png" width="1000" /></p>
+<h3>(1)建立:</h3>
+<h4>第一張圖的CREATE DATABASE就是建立資料庫的指令, Test001是此資料庫的名稱,第二行的USE是轉移資料庫的指令</h4>
+<h3>(2)備註:</h3>
+<h4>/** Grocery List:</h4>
+<h4>Bananas (4)</h4>
+<h4>Peanut Butter (1)</h4>
+<h4>Dark Chocolate Bar (2)</h4>
+<h4>**/</h4>
+<p>以上這段灰色的文字是備註這個資料庫所含有的內容,建立表格時需要放入這些東西</p>
+<h3>(3)建立及分類:</h3>
+<h4>CREATE TABLE groceries ( id INTEGER PRIMARY KEY,name TEXT, quantity INTEGER);</h4>
+<h4>這段是建立表格的形式及分類欄位;</h4>
+<h4>CREATE TABLE是建立表格</h4>
+<h3>(4)插入資料:</h3>
+<h4></h4>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
         </div>
         <div class="col-sm-3" id="sidebar">
             <aside>
@@ -274,20 +332,5 @@ Project-3B 四設計三乙專題網誌            </a>
 <script src="./theme/js/respond.min.js"></script>
 
 
-    <link href="./theme/tipuesearch/tipuesearch.css" rel="stylesheet">
-    <script type="text/javascript" src="./theme/tipuesearch/tipuesearch_set.js"></script>
-    <script type="text/javascript" src="./theme/tipuesearch/tipuesearch.min.js"></script>
-    <!-- 導入 local Tipue search 所需要的 tipuesearch_content.js -->
-    <script type="text/javascript" src="./tipuesearch_content.js"></script>
-    <script>
-    $(document).ready(function() {
-      $('#tipue_search_input').tipuesearch({
-        'mode' : 'static',
-        'show': 10,
-        'minimumLength': 2,
-        'newWindow': false
-      });
-    });
-    </script>
 </body>
 </html>
