@@ -122,6 +122,8 @@
 <v t="leo.20180314012007.1"><vh>@edit Postman使用.md</vh></v>
 <v t="leo.20180321012540.1"><vh>@edit SQL-建立資料庫-1.md</vh></v>
 <v t="leo.20180321012952.1"><vh>@edit SQL-建立資料庫-2.md</vh></v>
+<v t="leo.20180325000831.1"><vh>@edit Basic gear formula.md</vh></v>
+<v t="leo.20180325003658.1"><vh>@edit 齒輪基本名詞.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>

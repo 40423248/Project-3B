@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/40423228.atom.xml" rel="self"></link><id>./</id><updated>2018-03-25T00:35:00+08:00</updated><entry><title>齒輪基本名詞</title><link href="./Basic%20gear%20nonu.html" rel="alternate"></link><published>2018-03-25T00:35:00+08:00</published><updated>2018-03-25T00:35:00+08:00</updated><author><name>40423228</name></author><id>tag:,2018-03-25:./Basic gear nonu.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;齒輪基本名詞&lt;/h3&gt;
+
+&lt;/pre&gt;</summary><category term="gear"></category></entry><entry><title>齒輪基本計算</title><link href="./Basic%20gear%20formula.html" rel="alternate"></link><published>2018-03-24T15:30:00+08:00</published><updated>2018-03-24T15:30:00+08:00</updated><author><name>40423228</name></author><id>tag:,2018-03-24:./Basic gear formula.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;齒輪基本計算公式&lt;/h3&gt;
+
+&lt;pre class="brush: python"&gt;
+import math
+
+模數
+Module = input("D/T") \\D:節圓直徑；T:齒數
+h = float(Module)
+######
+P=input("pi*m") \\P:周節
+print(s)
+&lt;/pre&gt;</summary><category term="gear"></category></entry></feed>
