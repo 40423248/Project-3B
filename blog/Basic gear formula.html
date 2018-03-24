@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>齒輪基本計算 - Project-3B 四設計三乙專題網誌</title>
+    <title>正齒輪基本計算 - Project-3B 四設計三乙專題網誌</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -39,7 +39,7 @@ init_mathjax();
 
         <meta property="og:site_name" content="Project-3B 四設計三乙專題網誌" />
         <meta property="og:type" content="article"/>
-        <meta property="og:title" content="齒輪基本計算"/>
+        <meta property="og:title" content="正齒輪基本計算"/>
         <meta property="og:url" content="./Basic gear formula.html"/>
         <meta property="og:description" content=""/>
         <meta property="article:published_time" content="2018-03-24" />
@@ -166,8 +166,8 @@ Project-3B 四設計三乙專題網誌            </a>
                 <h1>
                     <a href="./Basic gear formula.html"
                        rel="bookmark"
-                       title="Permalink to 齒輪基本計算">
-                        齒輪基本計算
+                       title="Permalink to 正齒輪基本計算">
+                        正齒輪基本計算
                     </a>
                 </h1>
             </header>
@@ -191,17 +191,26 @@ Project-3B 四設計三乙專題網誌            </a>
                 </div>
                 <!-- PELICAN_END_SUMMARY -->
 
-<h3>齒輪基本計算公式</h3>
+<h3>正齒輪基本計算公式</h3>
 
 <pre class="brush: python">
 import math
 
 模數
 Module = input("D/T") \\D:節圓直徑；T:齒數
-h = float(Module)
+M = float(Module)
 ######
-P=input("pi*m") \\P:周節
-print(s)
+circular pitch = input("pi*m") \\P:周節 (公制)
+Pc =  float(circular pitch)
+######
+diametral pitch = input("T/D") \\Pb:徑節 (英制)
+Pd = float(diametral pitch)
+######
+Da = D+2*m \\Da:齒頂圓
+Da = float(Da)
+######
+C1 = (D1+D2)/2 \\齒輪外接 ; D1:大齒輪、D2:小齒輪、C:中心距
+C2 = (D1-D2)/2 \\齒輪內接
 </pre>
             </div>
             <!-- /.entry-content -->
@@ -224,7 +233,7 @@ print(s)
                     </li>
                     <li class="list-group-item">
                         <a href="./Basic gear formula.html">
-                            齒輪基本計算
+                            正齒輪基本計算
                         </a>
                     </li>
                     <li class="list-group-item">
