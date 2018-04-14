@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-03-25T00:35:00+08:00</updated><entry><title>齒輪基本名詞</title><link href="./Basic%20gear%20nonu.html" rel="alternate"></link><published>2018-03-25T00:35:00+08:00</published><updated>2018-03-25T00:35:00+08:00</updated><author><name>40423228</name></author><id>tag:,2018-03-25:./Basic gear nonu.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-04-14T15:36:00+08:00</updated><entry><title>凸輪介紹</title><link href="./Cam%20%20Introduction.html" rel="alternate"></link><published>2018-04-14T15:36:00+08:00</published><updated>2018-04-14T15:36:00+08:00</updated><author><name>40423228</name></author><id>tag:None,2018-04-14:./Cam  Introduction.html</id><summary type="html">&lt;h4&gt;凸輪介紹&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;凸輪介紹&lt;/h4&gt;
+
+
+&lt;h3&gt;凸輪種類&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="./../data/Cam  Introduction/cam kinds.png" width="480" /&gt;&lt;/p&gt;
+&lt;h3&gt;凸輪名詞&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="./../data/Cam  Introduction/cam names2.png" width="480" /&gt;
+&lt;img src="./../data/Cam  Introduction/cam names.png" width="480" /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;基圓：以距凸輪中心的最短距離為半徑，所畫得的圓，通常作為設計凸輪周緣的基礎。基圓愈大，壓力角、側壓力及磨損就愈小。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;節曲線：若凸輪與滾子從動件接觸時，而使從動件發生預期的運動，則滾子中心所經過之軌跡之連線，稱之為凸輪的節曲線，為一假想的理論曲線。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;凸輪輪廓：若凸輪與從動件之接觸，另有一滾子或一平板介於其間，以使從動件發生預期之運動，則此凸輪所具有的周緣曲線，稱為凸輪的工作曲線。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;壓力角：凸輪與從動件相接觸點之公法線，與從動件軸線間之夾角，壓力角小則驅動力對凸輪側向衝擊力就會比較小，通常凸輪設計的壓力角應小於30°。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;總升距：凸輪從動件上升與下降之最大差距。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;作用角：從動件自開始上升至恢復原來位置，凸輪所轉動之角度。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Cam1"></category></entry><entry><title>齒輪基本名詞</title><link href="./Basic%20gear%20nonu.html" rel="alternate"></link><published>2018-03-25T00:35:00+08:00</published><updated>2018-03-25T00:35:00+08:00</updated><author><name>40423228</name></author><id>tag:None,2018-03-25:./Basic gear nonu.html</id><summary type="html">&lt;h4&gt;齒輪基本名詞&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;齒輪基本名詞&lt;/h4&gt;
+
 
 &lt;h3&gt;齒輪基本名詞&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src="./../data/gear/gear nonu.jpg" width="480" /&gt;
-&lt;/pre&gt;&lt;/p&gt;</summary><category term="gear"></category></entry><entry><title>正齒輪基本計算</title><link href="./Basic%20gear%20formula.html" rel="alternate"></link><published>2018-03-24T15:30:00+08:00</published><updated>2018-03-24T15:30:00+08:00</updated><author><name>40423228</name></author><id>tag:,2018-03-24:./Basic gear formula.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;img src="./../data/gear/gear nonu.jpg" width="480" /&gt;&lt;/p&gt;</content><category term="gear"></category></entry><entry><title>正齒輪基本計算</title><link href="./Basic%20gear%20formula.html" rel="alternate"></link><published>2018-03-24T15:30:00+08:00</published><updated>2018-03-24T15:30:00+08:00</updated><author><name>40423228</name></author><id>tag:None,2018-03-24:./Basic gear formula.html</id><summary type="html">&lt;h4&gt;正齒輪基本計算&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;正齒輪基本計算&lt;/h4&gt;
+
 
 &lt;h3&gt;正齒輪基本計算公式&lt;/h3&gt;
 
@@ -26,8 +59,10 @@ Da = float(Da)
 ######
 C1 = (D1+D2)/2 \\齒輪外接 ; D1:大齒輪、D2:小齒輪、C:中心距
 C2 = (D1-D2)/2 \\齒輪內接
-&lt;/pre&gt;</summary><category term="gear"></category></entry><entry><title>SQL-建立資料庫-2</title><link href="./2018%20SQL-2.html" rel="alternate"></link><published>2018-03-03T11:20:00+08:00</published><updated>2018-03-03T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:,2018-03-03:./2018 SQL-2.html</id><summary type="html">&lt;h3&gt;這裡是介紹如何使用SQL來建立一個簡易的資料庫&lt;/h3&gt;
-</summary><category term="SQL-2"></category></entry><entry><title>Postman使用</title><link href="./2018%20Postman.html" rel="alternate"></link><published>2018-03-02T11:20:00+08:00</published><updated>2018-03-02T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:,2018-03-02:./2018 Postman.html</id><summary type="html">&lt;h3&gt;這裡是介紹如何使用Postman&lt;/h3&gt;
+&lt;/pre&gt;</content><category term="gear"></category></entry><entry><title>SQL-建立資料庫-2</title><link href="./2018%20SQL-2.html" rel="alternate"></link><published>2018-03-03T11:20:00+08:00</published><updated>2018-03-03T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-03-03:./2018 SQL-2.html</id><summary type="html">&lt;h3&gt;這裡是介紹如何使用SQL來建立一個簡易的資料庫&lt;/h3&gt;
+</summary><content type="html">&lt;h3&gt;這裡是介紹如何使用SQL來建立一個簡易的資料庫&lt;/h3&gt;
+</content><category term="SQL-2"></category></entry><entry><title>Postman使用</title><link href="./2018%20Postman.html" rel="alternate"></link><published>2018-03-02T11:20:00+08:00</published><updated>2018-03-02T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-03-02:./2018 Postman.html</id><summary type="html">&lt;h3&gt;這裡是介紹如何使用Postman&lt;/h3&gt;
+&lt;p&gt;&amp;lt;</summary><content type="html">&lt;h3&gt;這裡是介紹如何使用Postman&lt;/h3&gt;
 &lt;p&gt;&amp;lt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/mysql/ex-database001.png" width="1000" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/mysql/ex-database001-1.png" width="1000" /&gt;&lt;/p&gt;
@@ -45,7 +80,8 @@ C2 = (D1-D2)/2 \\齒輪內接
 &lt;h4&gt;這段是建立表格的形式及分類欄位;&lt;/h4&gt;
 &lt;h4&gt;CREATE TABLE是建立表格&lt;/h4&gt;
 &lt;h3&gt;(4)插入資料:&lt;/h3&gt;
-&lt;h4&gt;&lt;/h4&gt;</summary><category term="Postman"></category></entry><entry><title>SQL-建立資料庫-1</title><link href="./2018%20SQL-1.html" rel="alternate"></link><published>2018-03-02T11:20:00+08:00</published><updated>2018-03-02T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:,2018-03-02:./2018 SQL-1.html</id><summary type="html">&lt;h3&gt;這裡是介紹如何使用SQL來建立一個簡易的資料庫&lt;/h3&gt;
+&lt;h4&gt;&lt;/h4&gt;</content><category term="Postman"></category></entry><entry><title>SQL-建立資料庫-1</title><link href="./2018%20SQL-1.html" rel="alternate"></link><published>2018-03-02T11:20:00+08:00</published><updated>2018-03-02T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-03-02:./2018 SQL-1.html</id><summary type="html">&lt;h3&gt;這裡是介紹如何使用SQL來建立一個簡易的資料庫&lt;/h3&gt;
+</summary><content type="html">&lt;h3&gt;這裡是介紹如何使用SQL來建立一個簡易的資料庫&lt;/h3&gt;
 
 
 &lt;p&gt;&lt;img src="./../data/mysql/ex-database001.png" width="1000" /&gt;&lt;/p&gt;
@@ -64,7 +100,8 @@ C2 = (D1-D2)/2 \\齒輪內接
 &lt;h4&gt;這段是建立表格的形式及分類欄位;&lt;/h4&gt;
 &lt;h4&gt;CREATE TABLE是建立表格&lt;/h4&gt;
 &lt;h3&gt;(4)插入資料:&lt;/h3&gt;
-&lt;h4&gt;&lt;/h4&gt;</summary><category term="SQL-1"></category></entry><entry><title>SQL安裝</title><link href="./2018%20SQL.html" rel="alternate"></link><published>2018-03-01T11:20:00+08:00</published><updated>2018-03-01T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:,2018-03-01:./2018 SQL.html</id><summary type="html">&lt;h3&gt;這裡是介紹安裝SQL的過程:&lt;/h3&gt;
+&lt;h4&gt;&lt;/h4&gt;</content><category term="SQL-1"></category></entry><entry><title>SQL安裝</title><link href="./2018%20SQL.html" rel="alternate"></link><published>2018-03-01T11:20:00+08:00</published><updated>2018-03-01T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-03-01:./2018 SQL.html</id><summary type="html">&lt;h3&gt;這裡是介紹安裝SQL的過程:&lt;/h3&gt;
+</summary><content type="html">&lt;h3&gt;這裡是介紹安裝SQL的過程:&lt;/h3&gt;
 
 
 &lt;p&gt;&lt;img src="./../data/mysql/mysql2-01.png" width="1000" /&gt;&lt;/p&gt;
@@ -85,7 +122,8 @@ C2 = (D1-D2)/2 \\齒輪內接
 &lt;p&gt;&lt;img src="./../data/mysql/mysql2-16.png" width="1000" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/mysql/mysql2-17.png" width="1000" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/mysql/mysql2-18.png" width="1000" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/mysql/mysql2-19.png" width="1000" /&gt;&lt;/p&gt;</summary><category term="SQL"></category></entry><entry><title>Python基本語法-1</title><link href="./2018%20Basic.html" rel="alternate"></link><published>2018-02-28T11:20:00+08:00</published><updated>2018-02-28T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:,2018-02-28:./2018 Basic.html</id><summary type="html">&lt;h3&gt;這部分大概記錄一些之前學過的基本語法,用jupyter來做練習,以後會再繼續增加所學到的語法&lt;/h3&gt;
+&lt;p&gt;&lt;img src="./../data/mysql/mysql2-19.png" width="1000" /&gt;&lt;/p&gt;</content><category term="SQL"></category></entry><entry><title>Python基本語法-1</title><link href="./2018%20Basic.html" rel="alternate"></link><published>2018-02-28T11:20:00+08:00</published><updated>2018-02-28T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-02-28:./2018 Basic.html</id><summary type="html">&lt;h3&gt;這部分大概記錄一些之前學過的基本語法,用jupyter來做練習,以後會再繼續增加所學到的語法&lt;/h3&gt;
+</summary><content type="html">&lt;h3&gt;這部分大概記錄一些之前學過的基本語法,用jupyter來做練習,以後會再繼續增加所學到的語法&lt;/h3&gt;
 
 
 &lt;h3&gt;1.列印print() :&lt;/h3&gt;
@@ -130,7 +168,8 @@ C2 = (D1-D2)/2 \\齒輪內接
 &lt;p&gt;&lt;img src="./../data/pb/python-007-2.png" width="1000" /&gt;&lt;/p&gt;
 &lt;h3&gt;8.&lt;/h3&gt;
 &lt;h4&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;img src="./../data/pb/python-008.png" width="1000" /&gt;&lt;/p&gt;</summary><category term="Basic"></category></entry><entry><title>計畫簡介</title><link href="./2018%20Intro.html" rel="alternate"></link><published>2018-02-27T11:20:00+08:00</published><updated>2018-02-27T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:,2018-02-27:./2018 Intro.html</id><summary type="html">&lt;h3&gt;在此,大略的說一下這學期想做的事,使用python及其他的程式套件來編出一個有程式功能的網頁,主要以先前的電動絞車做為參考資料,想做出可以即時互動的裝配模擬,如輸入部分的機件尺寸,就會在頁面中顯示相對的2D圖像,可以互相搭配結合,做模擬運動,或是可以叫出範本做模擬,之後,可能在導入其他的機組件做模擬.&lt;/h3&gt;</summary><category term="intro"></category></entry><entry><title>凸輪加速度程式-01/28</title><link href="./Cam-Acceleration-0128.html" rel="alternate"></link><published>2018-01-28T20:00:00+08:00</published><updated>2018-01-28T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2018-01-28:./Cam-Acceleration-0128.html</id><summary type="html">&lt;h4&gt;將凸輪一般從動件加速度方程式轉為Python&lt;/h4&gt;
+&lt;p&gt;&lt;img src="./../data/pb/python-008.png" width="1000" /&gt;&lt;/p&gt;</content><category term="Basic"></category></entry><entry><title>計畫簡介</title><link href="./2018%20Intro.html" rel="alternate"></link><published>2018-02-27T11:20:00+08:00</published><updated>2018-02-27T11:20:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2018-02-27:./2018 Intro.html</id><summary type="html">&lt;h3&gt;在此,大略的說一下這學期想做的事,使用python及其他的程式套件來編出一個有程式功能的網頁,主要以先前的電動絞車做為參考資料,想做出可以即時互動的裝配模擬,如輸入部分的機件尺寸,就會在頁面中顯示相對的2D圖像,可以互相搭配結合,做模擬運動,或是可以叫出範本做模擬,之後,可能在導入其他的機組件做模擬.&lt;/h3&gt;</summary><content type="html">&lt;h3&gt;在此,大略的說一下這學期想做的事,使用python及其他的程式套件來編出一個有程式功能的網頁,主要以先前的電動絞車做為參考資料,想做出可以即時互動的裝配模擬,如輸入部分的機件尺寸,就會在頁面中顯示相對的2D圖像,可以互相搭配結合,做模擬運動,或是可以叫出範本做模擬,之後,可能在導入其他的機組件做模擬.&lt;/h3&gt;</content><category term="intro"></category></entry><entry><title>凸輪加速度程式-01/28</title><link href="./Cam-Acceleration-0128.html" rel="alternate"></link><published>2018-01-28T20:00:00+08:00</published><updated>2018-01-28T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:None,2018-01-28:./Cam-Acceleration-0128.html</id><summary type="html">&lt;h4&gt;將凸輪一般從動件加速度方程式轉為Python&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;將凸輪一般從動件加速度方程式轉為Python&lt;/h4&gt;
 
 
 &lt;h3&gt;等加速之加速度方程式&lt;/h3&gt;
@@ -210,7 +249,8 @@ w = float(omega)
 a = (2*math.pi*h*(w**2))/(B**2)*math.sin((2*math.pi*c)/B)
 
 print(a)
-&lt;/pre&gt;</summary><category term="Cam"></category></entry><entry><title>凸輪速度程式-01/25</title><link href="./Cam-velocity-0125.html" rel="alternate"></link><published>2018-01-25T20:00:00+08:00</published><updated>2018-01-25T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2018-01-25:./Cam-velocity-0125.html</id><summary type="html">&lt;h4&gt;將凸輪一般從動件速度方程式轉為Python&lt;/h4&gt;
+&lt;/pre&gt;</content><category term="Cam"></category></entry><entry><title>凸輪速度程式-01/25</title><link href="./Cam-velocity-0125.html" rel="alternate"></link><published>2018-01-25T20:00:00+08:00</published><updated>2018-01-25T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:None,2018-01-25:./Cam-velocity-0125.html</id><summary type="html">&lt;h4&gt;將凸輪一般從動件速度方程式轉為Python&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;將凸輪一般從動件速度方程式轉為Python&lt;/h4&gt;
 
 
 &lt;h3&gt;等加速之速度方程式&lt;/h3&gt;
@@ -292,7 +332,8 @@ v = ((h*w)/B)*(1-math.cos((2*math.pi*c)/B))
 print(v)
 &lt;/pre&gt;
 
-&lt;p&gt;參考資料：&lt;a href="http://blog.csdn.net/ethmery/article/details/50670297" target="_blank" title="http://blog.csdn.net/ethmery/article/details/50670297"&gt;http://blog.csdn.net/ethmery/article/details/50670297&lt;/a&gt;&lt;/p&gt;</summary><category term="Cam"></category></entry><entry><title>pip, matplotlib及pyqt5安裝問題及環境</title><link href="./pip-matplotlib-pyqt5-issue.html" rel="alternate"></link><published>2018-01-24T21:00:00+08:00</published><updated>2018-01-24T21:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2018-01-24:./pip-matplotlib-pyqt5-issue.html</id><summary type="html">&lt;p&gt;上禮拜我安裝matplotlib後，輸入import matplotlib.pyplot as plt，結果輸出錯誤。所以我暫時將環境移至可攜式的python3.4。&lt;/p&gt;
+&lt;p&gt;參考資料：&lt;a href="http://blog.csdn.net/ethmery/article/details/50670297" target="_blank" title="http://blog.csdn.net/ethmery/article/details/50670297"&gt;http://blog.csdn.net/ethmery/article/details/50670297&lt;/a&gt;&lt;/p&gt;</content><category term="Cam"></category></entry><entry><title>pip, matplotlib及pyqt5安裝問題及環境</title><link href="./pip-matplotlib-pyqt5-issue.html" rel="alternate"></link><published>2018-01-24T21:00:00+08:00</published><updated>2018-01-24T21:00:00+08:00</updated><author><name>40423254</name></author><id>tag:None,2018-01-24:./pip-matplotlib-pyqt5-issue.html</id><summary type="html">&lt;p&gt;上禮拜我安裝matplotlib後，輸入import matplotlib.pyplot as plt，結果輸出錯誤。所以我暫時將環境移至可攜式的python3.4。&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;上禮拜我安裝matplotlib後，輸入import matplotlib.pyplot as plt，結果輸出錯誤。所以我暫時將環境移至可攜式的python3.4。&lt;/p&gt;
 
 
 &lt;p&gt;然而我在python3.4環境下安裝pyqt5，則會有抓不到sip模組的問題。所以我又移至python3.6下環境進行測試，結果成功。&lt;/p&gt;
@@ -303,7 +344,8 @@ print(v)
 
 &lt;p&gt;我查證後發現原因是我沒有在python3.6環境下設定環境變數。設定完後即可正常運作。&lt;/p&gt;
 &lt;p&gt;參考網址 : &lt;a href="https://sites.google.com/a/crayflames.co.cc/crayflames/python/ptp/pythondehuanjingbianshu" target="_blank" title="https://sites.google.com/a/crayflames.co.cc/crayflames/python/ptp/pythondehuanjingbianshu"&gt;https://sites.google.com/a/crayflames.co.cc/crayflames/python/ptp/pythondehuanjingbianshu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;而上週安裝matplotlib持續發生的各種錯誤，我想是因為我下pip指令的環境是python3.6而非3.4，接著將安裝好的資料夾手動移至python3.4環境，可能發生版本不相容的問題 。&lt;/p&gt;</summary><category term="pip"></category><category term="matplotlib"></category><category term="pyqt5"></category></entry><entry><title>解決無法加入數學方程式問題-01/23</title><link href="./solve-Mathjax-0123.html" rel="alternate"></link><published>2018-01-23T20:00:00+08:00</published><updated>2018-01-23T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2018-01-23:./solve-Mathjax-0123.html</id><summary type="html">&lt;h4&gt;利用 Mathjax ，就可以使用 LaTeX 語法，在網頁上編寫數學方程式.&lt;/h4&gt;
+&lt;p&gt;而上週安裝matplotlib持續發生的各種錯誤，我想是因為我下pip指令的環境是python3.6而非3.4，接著將安裝好的資料夾手動移至python3.4環境，可能發生版本不相容的問題 。&lt;/p&gt;</content><category term="pip"></category><category term="matplotlib"></category><category term="pyqt5"></category></entry><entry><title>解決無法加入數學方程式問題-01/23</title><link href="./solve-Mathjax-0123.html" rel="alternate"></link><published>2018-01-23T20:00:00+08:00</published><updated>2018-01-23T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:None,2018-01-23:./solve-Mathjax-0123.html</id><summary type="html">&lt;h4&gt;利用 Mathjax ，就可以使用 LaTeX 語法，在網頁上編寫數學方程式.&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;利用 Mathjax ，就可以使用 LaTeX 語法，在網頁上編寫數學方程式.&lt;/h4&gt;
 
 
 &lt;p&gt;由於在網誌中無法利用 Mathjax 編寫數學方程式，在轉完網誌之後會發生下列情形&lt;/p&gt;
@@ -338,7 +380,8 @@ init_mathjax();
 &lt;/pre&gt;
 
 &lt;p&gt;Ex: 一元二次方程式 (ax^2 + bx + c = 0) 有兩組解, 可以寫成:&lt;/p&gt;
-&lt;p&gt;$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$&lt;/p&gt;</summary><category term="Mathjax"></category></entry><entry><title>凸輪位移程式-01/22</title><link href="./Cam-Displacement-0122.html" rel="alternate"></link><published>2018-01-22T20:00:00+08:00</published><updated>2018-01-22T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2018-01-22:./Cam-Displacement-0122.html</id><summary type="html">&lt;h4&gt;將凸輪一般從動件位移方程式轉為Python&lt;/h4&gt;
+&lt;p&gt;$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$&lt;/p&gt;</content><category term="Mathjax"></category></entry><entry><title>凸輪位移程式-01/22</title><link href="./Cam-Displacement-0122.html" rel="alternate"></link><published>2018-01-22T20:00:00+08:00</published><updated>2018-01-22T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:None,2018-01-22:./Cam-Displacement-0122.html</id><summary type="html">&lt;h4&gt;將凸輪一般從動件位移方程式轉為Python&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;將凸輪一般從動件位移方程式轉為Python&lt;/h4&gt;
 
 
 &lt;h3&gt;等加速位移方程式&lt;/h3&gt;
@@ -418,7 +461,8 @@ s = h*((c/B)-(1/(2*math.pi))*math.sin((2*math.pi*c)/B))
 
 print(s)
 
-&lt;/pre&gt;</summary><category term="Cam"></category></entry><entry><title>凸輪方程式-01/20</title><link href="./Cam-Function-0120.html" rel="alternate"></link><published>2018-01-20T20:00:00+08:00</published><updated>2018-01-20T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2018-01-20:./Cam-Function-0120.html</id><summary type="html">&lt;h3&gt;凸輪一般從動件方程式&lt;/h3&gt;
+&lt;/pre&gt;</content><category term="Cam"></category></entry><entry><title>凸輪方程式-01/20</title><link href="./Cam-Function-0120.html" rel="alternate"></link><published>2018-01-20T20:00:00+08:00</published><updated>2018-01-20T20:00:00+08:00</updated><author><name>40423245</name></author><id>tag:None,2018-01-20:./Cam-Function-0120.html</id><summary type="html">&lt;h3&gt;凸輪一般從動件方程式&lt;/h3&gt;
+</summary><content type="html">&lt;h3&gt;凸輪一般從動件方程式&lt;/h3&gt;
 
 
 &lt;p&gt;凸輪可依據從動件的運動方式分為許多種類，這裡根據等加速、簡諧、擺線進行討論。&lt;/p&gt;
@@ -428,7 +472,10 @@ print(s)
 &lt;h3&gt;凸輪速度方程式&lt;/h3&gt;
 &lt;p&gt;&lt;img src="./../data/Cam Function/velocity.bmp" width="480" /&gt;&lt;/p&gt;
 &lt;h3&gt;凸輪加速度方程式&lt;/h3&gt;
-&lt;p&gt;&lt;img src="./../data/Cam Function/Acceleration.bmp" width="480" /&gt;&lt;/p&gt;</summary><category term="Cam"></category></entry><entry><title>安裝matplotlib及其他模組遇到之問題</title><link href="./20180120-matplotlib-installation-problem.html" rel="alternate"></link><published>2018-01-20T11:00:00+08:00</published><updated>2018-01-20T11:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2018-01-20:./20180120-matplotlib-installation-problem.html</id><summary type="html">&lt;p&gt;Unofficial Windows Binaries for Python Extension Packages : 
+&lt;p&gt;&lt;img src="./../data/Cam Function/Acceleration.bmp" width="480" /&gt;&lt;/p&gt;</content><category term="Cam"></category></entry><entry><title>安裝matplotlib及其他模組遇到之問題</title><link href="./20180120-matplotlib-installation-problem.html" rel="alternate"></link><published>2018-01-20T11:00:00+08:00</published><updated>2018-01-20T11:00:00+08:00</updated><author><name>40423254</name></author><id>tag:None,2018-01-20:./20180120-matplotlib-installation-problem.html</id><summary type="html">&lt;p&gt;Unofficial Windows Binaries for Python Extension Packages : 
+&lt;a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/" target="_blank" title="https://www.lfd.uci.edu/~gohlke/pythonlibs/"&gt;https://www.lfd.uci.edu/~gohlke/pythonlibs/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我在1/20號前利用python簡單編譯一個計算齒輪模數及速比的程式。原定是將使用matplotlib來對齒輪進行繪圖，而在安裝時遇到許多問題。以下為遇到問題之解決方法：&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Unofficial Windows Binaries for Python Extension Packages : 
 &lt;a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/" target="_blank" title="https://www.lfd.uci.edu/~gohlke/pythonlibs/"&gt;https://www.lfd.uci.edu/~gohlke/pythonlibs/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;我在1/20號前利用python簡單編譯一個計算齒輪模數及速比的程式。原定是將使用matplotlib來對齒輪進行繪圖，而在安裝時遇到許多問題。以下為遇到問題之解決方法：&lt;/p&gt;
 
@@ -470,4 +517,4 @@ print(s)
 &lt;p&gt;參考資料 : 
 &lt;a href="https://stackoverflow.com/questions/41363993/python-3-6-pip-install-matplotlib-and-other-libraries-failed-on-windows-10" target="_blank" title="https://stackoverflow.com/questions/41363993/python-3-6-pip-install-matplotlib-and-other-libraries-failed-on-windows-10"&gt;https://stackoverflow.com/questions/41363993/python-3-6-pip-install-matplotlib-and-other-libraries-failed-on-windows-10&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;其中#2提到版本不兼容問題，嘗試利用pip install matplotlib==1.5.1來解決問題。&lt;/p&gt;
-&lt;iframe src="./../pictures/problem5-update-matplotlib-to-solve.jpg" width="800" height="80" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="matplotlib"></category><category term="pyparsing"></category><category term="six"></category><category term="dateutil"></category></entry><entry><title>2017CD第三週</title><link href="./2017springCD-Week3.html" rel="alternate"></link><published>2017-02-24T11:00:00+08:00</published><updated>2017-02-24T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-24:./2017springCD-Week3.html</id><summary type="html">&lt;p&gt;3&lt;/p&gt;</summary><category term="brython"></category><category term="w3"></category></entry><entry><title>Pyslvs-user-manual-2</title><link href="./2017springCD-Week2.html" rel="alternate"></link><published>2017-02-23T11:00:00+08:00</published><updated>2017-02-23T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-23:./2017springCD-Week2.html</id><summary type="html">&lt;p&gt;2&lt;/p&gt;</summary><category term="brython"></category><category term="w2"></category></entry><entry><title>Pyslvs-user-manual-1</title><link href="./2017springCD-Week1.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:,2017-02-22:./2017springCD-Week1.html</id><summary type="html">&lt;p&gt;1&lt;/p&gt;</summary><category term="brython"></category><category term="w1"></category></entry></feed>
+&lt;iframe src="./../pictures/problem5-update-matplotlib-to-solve.jpg" width="800" height="80" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</content><category term="matplotlib"></category><category term="pyparsing"></category><category term="six"></category><category term="dateutil"></category></entry><entry><title>2017CD第三週</title><link href="./2017springCD-Week3.html" rel="alternate"></link><published>2017-02-24T11:00:00+08:00</published><updated>2017-02-24T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2017-02-24:./2017springCD-Week3.html</id><summary type="html">&lt;p&gt;3&lt;/p&gt;</summary><content type="html">&lt;p&gt;3&lt;/p&gt;</content><category term="brython"></category><category term="w3"></category></entry><entry><title>Pyslvs-user-manual-2</title><link href="./2017springCD-Week2.html" rel="alternate"></link><published>2017-02-23T11:00:00+08:00</published><updated>2017-02-23T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2017-02-23:./2017springCD-Week2.html</id><summary type="html">&lt;p&gt;2&lt;/p&gt;</summary><content type="html">&lt;p&gt;2&lt;/p&gt;</content><category term="brython"></category><category term="w2"></category></entry><entry><title>Pyslvs-user-manual-1</title><link href="./2017springCD-Week1.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423248</name></author><id>tag:None,2017-02-22:./2017springCD-Week1.html</id><summary type="html">&lt;p&gt;1&lt;/p&gt;</summary><content type="html">&lt;p&gt;1&lt;/p&gt;</content><category term="brython"></category><category term="w1"></category></entry></feed>

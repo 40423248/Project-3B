@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/40423228.atom.xml" rel="self"></link><id>./</id><updated>2018-03-25T00:35:00+08:00</updated><entry><title>齒輪基本名詞</title><link href="./Basic%20gear%20nonu.html" rel="alternate"></link><published>2018-03-25T00:35:00+08:00</published><updated>2018-03-25T00:35:00+08:00</updated><author><name>40423228</name></author><id>tag:,2018-03-25:./Basic gear nonu.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌 - 40423228</title><link href="./" rel="alternate"></link><link href="./feeds/40423228.atom.xml" rel="self"></link><id>./</id><updated>2018-04-14T15:36:00+08:00</updated><entry><title>凸輪介紹</title><link href="./Cam%20%20Introduction.html" rel="alternate"></link><published>2018-04-14T15:36:00+08:00</published><updated>2018-04-14T15:36:00+08:00</updated><author><name>40423228</name></author><id>tag:None,2018-04-14:./Cam  Introduction.html</id><summary type="html">&lt;h4&gt;凸輪介紹&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;凸輪介紹&lt;/h4&gt;
+
+
+&lt;h3&gt;凸輪種類&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="./../data/Cam  Introduction/cam kinds.png" width="480" /&gt;&lt;/p&gt;
+&lt;h3&gt;凸輪名詞&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="./../data/Cam  Introduction/cam names2.png" width="480" /&gt;
+&lt;img src="./../data/Cam  Introduction/cam names.png" width="480" /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;基圓：以距凸輪中心的最短距離為半徑，所畫得的圓，通常作為設計凸輪周緣的基礎。基圓愈大，壓力角、側壓力及磨損就愈小。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;節曲線：若凸輪與滾子從動件接觸時，而使從動件發生預期的運動，則滾子中心所經過之軌跡之連線，稱之為凸輪的節曲線，為一假想的理論曲線。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;凸輪輪廓：若凸輪與從動件之接觸，另有一滾子或一平板介於其間，以使從動件發生預期之運動，則此凸輪所具有的周緣曲線，稱為凸輪的工作曲線。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;壓力角：凸輪與從動件相接觸點之公法線，與從動件軸線間之夾角，壓力角小則驅動力對凸輪側向衝擊力就會比較小，通常凸輪設計的壓力角應小於30°。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;總升距：凸輪從動件上升與下降之最大差距。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;作用角：從動件自開始上升至恢復原來位置，凸輪所轉動之角度。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Cam1"></category></entry><entry><title>齒輪基本名詞</title><link href="./Basic%20gear%20nonu.html" rel="alternate"></link><published>2018-03-25T00:35:00+08:00</published><updated>2018-03-25T00:35:00+08:00</updated><author><name>40423228</name></author><id>tag:None,2018-03-25:./Basic gear nonu.html</id><summary type="html">&lt;h4&gt;齒輪基本名詞&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;齒輪基本名詞&lt;/h4&gt;
+
 
 &lt;h3&gt;齒輪基本名詞&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src="./../data/gear/gear nonu.jpg" width="480" /&gt;
-&lt;/pre&gt;&lt;/p&gt;</summary><category term="gear"></category></entry><entry><title>正齒輪基本計算</title><link href="./Basic%20gear%20formula.html" rel="alternate"></link><published>2018-03-24T15:30:00+08:00</published><updated>2018-03-24T15:30:00+08:00</updated><author><name>40423228</name></author><id>tag:,2018-03-24:./Basic gear formula.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;img src="./../data/gear/gear nonu.jpg" width="480" /&gt;&lt;/p&gt;</content><category term="gear"></category></entry><entry><title>正齒輪基本計算</title><link href="./Basic%20gear%20formula.html" rel="alternate"></link><published>2018-03-24T15:30:00+08:00</published><updated>2018-03-24T15:30:00+08:00</updated><author><name>40423228</name></author><id>tag:None,2018-03-24:./Basic gear formula.html</id><summary type="html">&lt;h4&gt;正齒輪基本計算&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;正齒輪基本計算&lt;/h4&gt;
+
 
 &lt;h3&gt;正齒輪基本計算公式&lt;/h3&gt;
 
@@ -26,4 +59,4 @@ Da = float(Da)
 ######
 C1 = (D1+D2)/2 \\齒輪外接 ; D1:大齒輪、D2:小齒輪、C:中心距
 C2 = (D1-D2)/2 \\齒輪內接
-&lt;/pre&gt;</summary><category term="gear"></category></entry></feed>
+&lt;/pre&gt;</content><category term="gear"></category></entry></feed>

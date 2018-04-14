@@ -5,6 +5,8 @@ Tags: gear
 Slug: Basic gear formula
 Author: 40423228
 
+####正齒輪基本計算
+
 <!-- PELICAN_END_SUMMARY -->
 
 <h3>正齒輪基本計算公式</h3>
