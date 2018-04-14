@@ -13,6 +13,7 @@ Author: 40423228
 <img src="./../data/Cam  Introduction/cam kinds.png" width="480" />
 
 <h3>凸輪名詞</h3>
+<img src="./../data/Cam  Introduction/cam names3.png" width="480" />
 <img src="./../data/Cam  Introduction/cam names2.png" width="480" />
 <img src="./../data/Cam  Introduction/cam names.png" width="480" />
 
