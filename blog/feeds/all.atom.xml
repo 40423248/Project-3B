@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-04-14T15:36:00+08:00</updated><entry><title>凸輪介紹</title><link href="./Cam%20%20Introduction.html" rel="alternate"></link><published>2018-04-14T15:36:00+08:00</published><updated>2018-04-14T15:36:00+08:00</updated><author><name>40423228</name></author><id>tag:None,2018-04-14:./Cam  Introduction.html</id><summary type="html">&lt;h4&gt;凸輪介紹&lt;/h4&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-04-15T18:10:00+08:00</updated><entry><title>凸輪等速度運動</title><link href="./Cam%20Constant%20Velocity%20Curey.html" rel="alternate"></link><published>2018-04-15T18:10:00+08:00</published><updated>2018-04-15T18:10:00+08:00</updated><author><name>40423228</name></author><id>tag:None,2018-04-15:./Cam Constant Velocity Curey.html</id><summary type="html">&lt;h4&gt;凸輪等速度運動&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;凸輪等速度運動&lt;/h4&gt;
+
+
+&lt;h3&gt;等速度運動&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="./../data/Cam Function/Constant Velocity Curey.jpg" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;S  ：位移&lt;/p&gt;
+&lt;p&gt;V ：速度&lt;/p&gt;
+&lt;p&gt;A ：加速度&lt;/p&gt;
+&lt;p&gt;β：凸輪角度&lt;/p&gt;
+&lt;p&gt;h  ：升程&lt;/p&gt;
+&lt;p&gt;ω：轉速&lt;/p&gt;
+&lt;p&gt;θ=ω*ｔ&lt;/p&gt;</content><category term="Cam"></category></entry><entry><title>凸輪介紹</title><link href="./Cam%20%20Introduction.html" rel="alternate"></link><published>2018-04-14T15:36:00+08:00</published><updated>2018-04-14T15:36:00+08:00</updated><author><name>40423228</name></author><id>tag:None,2018-04-14:./Cam  Introduction.html</id><summary type="html">&lt;h4&gt;凸輪介紹&lt;/h4&gt;
 </summary><content type="html">&lt;h4&gt;凸輪介紹&lt;/h4&gt;
 
 

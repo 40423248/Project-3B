@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2018-04-14T16:10:38-00:00</lastmod>
+<lastmod>2018-04-15T18:15:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2018-04-14T16:10:38-00:00</lastmod>
+<lastmod>2018-04-15T18:15:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2018-04-14T16:10:38-00:00</lastmod>
+<lastmod>2018-04-15T18:15:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2018-04-14T16:10:38-00:00</lastmod>
+<lastmod>2018-04-15T18:15:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./pages/about/</loc>
 <lastmod>2018-04-14T15:27:57+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./Cam Constant Velocity Curey.html</loc>
+<lastmod>2018-04-15T18:10:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -173,7 +180,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/40423228.html</loc>
-<lastmod>2018-04-14T15:36:00+08:06</lastmod>
+<lastmod>2018-04-15T18:10:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -208,7 +215,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/cam.html</loc>
-<lastmod>2018-04-14T15:36:00+08:06</lastmod>
+<lastmod>2018-04-15T18:10:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -341,7 +348,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/40423228.html</loc>
-<lastmod>2018-04-14T15:36:00+08:06</lastmod>
+<lastmod>2018-04-15T18:10:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
