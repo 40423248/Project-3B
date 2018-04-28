@@ -10,7 +10,7 @@ Author: 40423228
 <!-- PELICAN_END_SUMMARY -->
 
 <h3>等加速度運動</h3>
-<img src="./../data/Cam Function/Const Acceleration Curve.jpg" width="480" />
+<img src="./../data/Cam Function/Const Acceleration Curve.jpg" width="900" />
 
 <h3>等加速度運動S，V，A圖</h3>
 <img src="./../data/Cam Function/Const Acceleration Curve2.jpg" width="480" />

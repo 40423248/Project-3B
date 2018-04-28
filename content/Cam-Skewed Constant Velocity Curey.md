@@ -10,7 +10,7 @@ Author: 40423228
 <!-- PELICAN_END_SUMMARY -->
 
 <h3>不對稱等加速度運動</h3>
-<img src="./../data/Cam Function/Skewed Constant Velocity Curey.jpg" width="480" />
+<img src="./../data/Cam Function/Skewed Constant Velocity Curey.jpg" width="900" />
 
 <h3>等加速度運動S，V，A圖</h3>
-<img src="./../data/Cam Function/Skewed Constant Velocity Curey2.jpg" width="480" />
+<img src="./../data/Cam Function/Skewed Constant Velocity Curey2.jpg" width="900" />
