@@ -1,11 +1,11 @@
-Title: 凸輪等加速度運動
+Title: 凸輪對稱等加速度運動
 Date: 2018-04-15 18:10
 Category: 40423228
 Tags: Cam
-Slug: Cam Constant Acceleration Curve.md
+Slug: Cam Constant Acceleration Curve
 Author: 40423228
 
-####凸輪等加速度運動
+####凸輪對稱等加速度運動
 
 <!-- PELICAN_END_SUMMARY -->
 
