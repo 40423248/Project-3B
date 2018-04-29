@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-04-29T04:36:00+08:00</updated><entry><title>凸輪不對稱等加速度運動</title><link href="./Skewed%20Constant%20Velocity%20Curey.html" rel="alternate"></link><published>2018-04-29T04:36:00+08:00</published><updated>2018-04-29T04:36:00+08:00</updated><author><name>40423228</name></author><id>tag:None,2018-04-29:./Skewed Constant Velocity Curey.html</id><summary type="html">&lt;h4&gt;凸輪不對稱等加速度運動&lt;/h4&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Project-3B 四設計三乙專題網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-04-29T14:34:00+08:00</updated><entry><title>凸輪擺線運動</title><link href="./Cycloidal%20motion%20curve.html" rel="alternate"></link><published>2018-04-29T14:34:00+08:00</published><updated>2018-04-29T14:34:00+08:00</updated><author><name>40423228</name></author><id>tag:None,2018-04-29:./Cycloidal motion curve.html</id><summary type="html">&lt;h4&gt;凸輪擺線運動&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;凸輪擺線運動&lt;/h4&gt;
+
+
+&lt;h3&gt;擺線運動構造&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="./../data/Cam Function/Cycloidal motion curve2.jpg" width="900" /&gt;&lt;/p&gt;
+&lt;h3&gt;擺線運動&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="./../data/Cam Function/Cycloidal motion curve.jpg" width="900" /&gt;&lt;/p&gt;
+&lt;h3&gt;擺線運動S，V，A圖&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="./../data/Cam Function/Cycloidal motion curve3.jpg" width="900" /&gt;&lt;/p&gt;</content><category term="Cam"></category></entry><entry><title>凸輪簡諧運動</title><link href="./Skewed%20Simple%20harmonic%20motion%20curve.html" rel="alternate"></link><published>2018-04-29T14:34:00+08:00</published><updated>2018-04-29T14:34:00+08:00</updated><author><name>40423228</name></author><id>tag:None,2018-04-29:./Skewed Simple harmonic motion curve.html</id><summary type="html">&lt;h4&gt;凸輪簡諧運動&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;凸輪簡諧運動&lt;/h4&gt;
+
+
+&lt;h3&gt;凸輪簡諧運動構造&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="./../data/Cam Function/Simple harmonic motion curve2.jpg" width="900" /&gt;&lt;/p&gt;
+&lt;h3&gt;凸輪簡諧運動&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="./../data/Cam Function/Simple harmonic motion curve.jpg" width="900" /&gt;&lt;/p&gt;
+&lt;h3&gt;簡諧運動S，V，A圖&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="./../data/Cam Function/Simple harmonic motion curve3.jpg" width="900" /&gt;&lt;/p&gt;</content><category term="Cam"></category></entry><entry><title>凸輪不對稱等加速度運動</title><link href="./Skewed%20Constant%20Velocity%20Curey.html" rel="alternate"></link><published>2018-04-29T04:36:00+08:00</published><updated>2018-04-29T04:36:00+08:00</updated><author><name>40423228</name></author><id>tag:None,2018-04-29:./Skewed Constant Velocity Curey.html</id><summary type="html">&lt;h4&gt;凸輪不對稱等加速度運動&lt;/h4&gt;
 </summary><content type="html">&lt;h4&gt;凸輪不對稱等加速度運動&lt;/h4&gt;
 
 
