@@ -130,6 +130,7 @@
 <v t="leo.20180429043548.1"><vh>@edit Cam-Skewed Constant Velocity Curey.md</vh></v>
 <v t="leo.20180429143411.1"><vh>@edit Cam-Simple harmonic motion curve.md</vh></v>
 <v t="leo.20180429143412.1"><vh>@edit Cam-Cycloidal motion curve.md</vh></v>
+<v t="leo.20180504064017.1"><vh>@edit Cam-Design.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
