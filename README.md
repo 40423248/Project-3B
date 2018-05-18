@@ -5,4 +5,4 @@
 倉儲投影片 https://40423248.github.io/Project-3B/#/
 
 
-Cam Design Calculator https://test-3b.herokuapp.com/
+Cam Design Calculator http://project-3b.herokuapp.com/
